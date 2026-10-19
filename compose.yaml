@@ -1,0 +1,36 @@
+services:
+  web:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./private_uploads:/app/private_uploads
+      - ./media_uploads:/app/media_uploads
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=64m
+
+  caddy:
+    image: caddy:2
+    profiles: ["production"]
+    restart: unless-stopped
+    depends_on:
+      - web
+    environment:
+      SITE_HOST: ${SITE_HOST:-localhost}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  caddy_data:
+  caddy_config:
