@@ -1,0 +1,312 @@
+{
+  "locale": "de",
+  "marketNote": "Unverbindliche jährliche Bruttogrundgehälter. Die angegebenen Werte wurden für die Planung bereitgestellt und als Marktbenchmarks 2026 mit einem Aufschlag von 10 % beschrieben; sie wurden nicht unabhängig überprüft. Tatsächliche Vergütung und Stellenverfügbarkeit hängen von Arbeitgeber, Erfahrung und Position ab.",
+  "benefits": [
+    "Wettbewerbsfähiges Grundgehalt je nach Arbeitgeber und Erfahrung",
+    "Mögliche leistungsbezogene Boni oder Provisionen, sofern vorgesehen",
+    "Internationales Arbeitsumfeld und grenzüberschreitende Zusammenarbeit",
+    "Schulungen, berufliche Weiterbildung und mögliche Aufstiegschancen",
+    "Möglichkeit zu hybridem Arbeiten oder Umzugsunterstützung, sofern angeboten"
+  ],
+  "roles": {
+    "german-speaking-customer-support": {
+      "title": "Deutschsprachige/r Mitarbeiter/in im Kundenservice",
+      "category": "Kundenservice & technischer Support",
+      "overview": "Im Kundenservice sind Sie häufig die erste Ansprechperson, wenn Kundinnen und Kunden Hilfe zu einem Produkt oder einer Dienstleistung benötigen. In dieser Position beantworten Sie Anfragen auf Deutsch, klären Probleme und sorgen dafür, dass die nächsten Schritte verständlich sind. Mögliche Arbeitgeber sind Technologieunternehmen, Abonnementdienste, Online-Marktplätze und internationale Servicezentren in Irland. Sehr gute Deutschkenntnisse sind wichtig, um Anliegen präzise und kundenorientiert zu bearbeiten. Englisch benötigen Sie für die Zusammenarbeit mit internationalen Teams aus Produktmanagement, Abrechnung und Technik. Je nach Unternehmen kommunizieren Sie telefonisch, per E-Mail oder im Live-Chat. Sie lernen, mehrere Vorgänge gleichzeitig zu betreuen, Anliegen richtig zu priorisieren und Ergebnisse sauber zu dokumentieren. Mit wachsender Erfahrung können Sie komplexere Fälle übernehmen oder sich in Richtung Qualitätssicherung, Customer Success, Schulung und Teamleitung entwickeln. Arbeitszeiten, Kommunikationskanäle und konkrete Aufgaben richten sich nach dem jeweiligen Arbeitgeber.",
+      "responsibilities": [
+        "Deutschsprachige Kundenanfragen über die vorgesehenen Servicekanäle bearbeiten.",
+        "Fragen zu Konten, Abrechnungen und Produkten prüfen und verständlich lösen.",
+        "Fallnotizen und Ergebnisse im Ticketsystem korrekt dokumentieren.",
+        "Technische oder sensible Anliegen nach den geltenden Vorgaben eskalieren.",
+        "Wiederkehrende Probleme erkennen und Wissensdatenbanken verbessern.",
+        "Mit Teams aus Abrechnung, Produktmanagement und Betrieb zusammenarbeiten.",
+        "Servicequalität, Vertraulichkeit und Datenschutzvorgaben einhalten."
+      ],
+      "essential": [
+        "Sehr gute berufsbezogene Deutschkenntnisse, in der Regel C1 oder gleichwertig.",
+        "Gute schriftliche und mündliche Englischkenntnisse.",
+        "Klare Kommunikation, Geduld und lösungsorientiertes Denken.",
+        "Organisationstalent und Fähigkeit, mehrere Anliegen zu bearbeiten.",
+        "Sicherer Umgang mit digitalen Anwendungen und Lernbereitschaft."
+      ],
+      "desirable": [
+        "Erfahrung mit Zendesk, Salesforce Service Cloud oder vergleichbaren Systemen.",
+        "Erste Erfahrung im Kundenservice, Einzelhandel oder Gastgewerbe."
+      ],
+      "company": "Mögliche Arbeitgeber sind internationale Technologie-, Dienstleistungs- und Online-Unternehmen, die deutschsprachige Kundinnen und Kunden betreuen. Unternehmen, Produkt, Servicekanäle und Arbeitsbedingungen werden erst bei einer bestätigten Stelle konkret benannt.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-sdr": {
+      "title": "Deutschsprachige/r Sales Development Representative (SDR/BDR)",
+      "category": "Vertrieb & Geschäftsentwicklung",
+      "overview": "Sales Development ist ein verbreiteter Einstieg in den B2B-Technologievertrieb. Als deutschsprachige/r SDR oder BDR recherchieren Sie potenzielle Geschäftskunden, knüpfen erste Kontakte und prüfen, ob Produkte oder Dienstleistungen zu deren Bedarf passen. Internationale Vertriebsteams in Dublin betreuen häufig Unternehmen in Deutschland, Österreich und der Schweiz. Sehr gute Deutschkenntnisse helfen dabei, Entscheider überzeugend anzusprechen, Einwände zu verstehen und kulturelle Unterschiede im Geschäftsalltag zu berücksichtigen. Englisch wird meist für interne Besprechungen, Schulungen und die Zusammenarbeit mit Marketing und Account Executives verwendet. Die Tätigkeit kann aktive Neukundenansprache und die Qualifizierung eingehender Anfragen umfassen. Der Erfolg wird häufig an der Qualität der Gespräche und den entstandenen Vertriebschancen gemessen. Wer strukturiert arbeitet, gerne recherchiert und kommunikativ ist, kann sich hier gut entwickeln. Mögliche nächste Schritte sind Senior-SDR-Positionen, Account Executive, Sales Enablement oder Revenue Operations. Ziele, Werkzeuge, Marktgebiete und Vergütung unterscheiden sich je nach Arbeitgeber.",
+      "responsibilities": [
+        "Zielunternehmen und relevante Entscheider im deutschsprachigen Markt recherchieren.",
+        "Potenzielle Kunden per Telefon, E-Mail und zugelassenen beruflichen Netzwerken ansprechen.",
+        "Eingehende und selbst generierte Kontakte anhand definierter Kriterien qualifizieren.",
+        "Gespräche für Account Executives vorbereiten und relevante Informationen übergeben.",
+        "Kontakte, Aktivitäten und Ergebnisse zuverlässig im CRM dokumentieren.",
+        "Vertriebsbotschaften mit Marketing- und Sales-Teams abstimmen.",
+        "Ansprache und Zielgruppen anhand von Ergebnissen laufend verbessern.",
+        "Vereinbarte Aktivitäts- und Pipeline-Ziele verfolgen."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse auf C1-Niveau oder gleichwertig.",
+        "Gute Englischkenntnisse und überzeugende Geschäftskommunikation.",
+        "Bereitschaft zur aktiven Kundenansprache und Umgang mit Ablehnung.",
+        "Zuverlässige Nachverfolgung und sorgfältige CRM-Pflege.",
+        "Interesse an kaufmännischen Zusammenhängen und neuen Produkten."
+      ],
+      "desirable": [
+        "Kenntnisse in Salesforce, HubSpot, Outreach oder Salesloft.",
+        "Erfahrung im Vertrieb, Kundenservice oder B2B-Umfeld."
+      ],
+      "company": "Mögliche Arbeitgeber sind B2B-Software-, Cloud-, Fintech- und Dienstleistungsunternehmen, die DACH-Kunden von Irland aus betreuen. Produkt, Marktgebiet und Provisionsmodell werden nur für eine konkret bestätigte Stelle angegeben.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-account-executive": {
+      "title": "Deutschsprachige/r Account Executive",
+      "category": "Vertrieb & Geschäftsentwicklung",
+      "overview": "Account Executives begleiten potenzielle Geschäftskunden von der ersten qualifizierten Anfrage über die Bedarfsanalyse bis zu Vertragsverhandlungen. Als deutschsprachige Fachkraft betreuen Sie möglicherweise Kunden in Deutschland, Österreich und der Schweiz aus einem internationalen Vertriebsteam in Dublin. Dabei geht es nicht nur darum, ein Produkt zu präsentieren: Sie müssen die Ziele des Kunden verstehen, Fachabteilungen einbinden und einen überzeugenden geschäftlichen Nutzen aufzeigen. Sehr gute Deutschkenntnisse sind entscheidend für vertrauensvolle Gespräche mit verschiedenen Ansprechpartnern. Englisch ist wichtig für die Zusammenarbeit mit Produktspezialisten, Finanzabteilungen und Führungskräften. Je nach Unternehmen konzentriert sich die Rolle auf Neukundengewinnung, Bestandskundenausbau oder bestimmte Marktsegmente. Die Leistung wird oft anhand von Verkaufsabschlüssen und Pipeline-Qualität bewertet. Erfahrene Account Executives können sich auf Großkunden, Enterprise Sales, Partnerschaften oder Teamführung spezialisieren. Verkaufszyklen, Reisebedarf, Umsatzziele und variable Vergütung hängen vom tatsächlichen Arbeitgeber ab.",
+      "responsibilities": [
+        "Bedarfsanalysen mit potenziellen Geschäftskunden durchführen.",
+        "Qualifizierte Vertriebschancen durch definierte Verkaufsphasen begleiten.",
+        "Produktpräsentationen durchführen oder mit Fachleuten koordinieren.",
+        "Individuelle Angebote entwickeln und den Nutzen auf Deutsch erläutern.",
+        "Mit Einkauf, IT und weiteren Entscheidungsträgern zusammenarbeiten.",
+        "CRM-Prognosen, nächste Schritte und Vertriebsdokumentation pflegen.",
+        "Innerhalb genehmigter Preis- und Vertragsvorgaben verhandeln.",
+        "Übergaben an Onboarding- und Customer-Success-Teams koordinieren."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse und sichere Kommunikation auf Englisch.",
+        "Nachweisbare Erfahrung im beratenden Vertrieb oder Account Management.",
+        "Fähigkeit zur Bedarfsanalyse und Präsentation komplexerer Lösungen.",
+        "Verhandlungsstärke, Organisation und Stakeholder-Management.",
+        "Sicherer Umgang mit CRM-Daten und Vertriebszielen."
+      ],
+      "desirable": [
+        "Erfahrung im B2B-SaaS-Vertrieb oder mit internationalen Märkten.",
+        "Kenntnisse in Salesforce, HubSpot oder strukturierten Verkaufsmethoden."
+      ],
+      "company": "Mögliche Arbeitgeber sind internationale Unternehmen aus Software, digitalen Dienstleistungen, Fintech oder anderen B2B-Branchen. Arbeitgeber, Vertriebsgebiet, Umsatzziele und Provisionsmodell werden nur bei einer verifizierten Stelle angegeben.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-account-manager": {
+      "title": "Deutschsprachige/r Account Manager/in",
+      "category": "Account Management & Customer Success",
+      "overview": "Account Manager betreuen bestehende Geschäftskunden und entwickeln langfristige Beziehungen. Bei deutschsprachigen Kunden verbindet diese Aufgabe kaufmännisches Verständnis mit einem Gespür für lokale Erwartungen an Kommunikation, Verlässlichkeit und Service. In Dublin können Sie Unternehmen in Deutschland, Österreich und der Schweiz betreuen und gleichzeitig mit internationalen Produkt-, Finanz- und Betriebsteams zusammenarbeiten. Zu den typischen Aufgaben gehören die Planung von Kundenbeziehungen, Gespräche über Vertragsverlängerungen, das Erkennen passender Wachstumsmöglichkeiten und die frühzeitige Lösung von Problemen. Anders als in einer reinen Neukundenvertriebsrolle steht die nachhaltige Kundenbindung im Vordergrund. Arbeitgeber können den Erfolg anhand von Kundenbindung, Umsatzentwicklung, Servicequalität oder mehreren Kennzahlen messen. Mit Erfahrung sind Spezialisierungen auf strategische Großkunden, Partnerschaften, Commercial Operations oder Führungspositionen möglich. Die Gewichtung zwischen Service und Vertrieb sowie Reiseanforderungen und variable Vergütung hängen vom Unternehmen ab. Eine allgemeine Rollenbeschreibung ist daher kein konkretes Stellenangebot.",
+      "responsibilities": [
+        "Beziehungen zu einem Portfolio deutschsprachiger Geschäftskunden pflegen.",
+        "Kundenpläne anhand geschäftlicher Ziele und Prioritäten entwickeln.",
+        "Regelmäßige Kundenbesprechungen leiten und Maßnahmen koordinieren.",
+        "Risiken bei Vertragsverlängerungen frühzeitig erkennen und eskalieren.",
+        "Passende Wachstumsmöglichkeiten im Kundenbestand identifizieren.",
+        "Vertragsverlängerungen und kaufmännische Gespräche begleiten.",
+        "CRM-Daten, Prognosen und Ansprechpartner aktuell halten.",
+        "Kundenfeedback an Produkt-, Service- und Führungsteams weitergeben."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse und sichere Englischkommunikation.",
+        "Erfahrung in der Betreuung von Kundenbeziehungen.",
+        "Strukturierte Arbeitsweise und verlässliches Stakeholder-Management.",
+        "Fähigkeit, Kundenkennzahlen zu bewerten und Empfehlungen zu formulieren.",
+        "Verantwortungsbewusster Umgang mit vertraulichen Kundendaten."
+      ],
+      "desirable": [
+        "Erfahrung im B2B-Account-Management, bei Renewals oder im Customer Success.",
+        "Kenntnisse in CRM-Systemen und kaufmännischem Reporting."
+      ],
+      "company": "Mögliche Arbeitgeber sind internationale B2B-Technologie- und Dienstleistungsunternehmen mit deutschsprachigen Bestandskunden. Kundensegmente, Portfoliogröße und Ziele richten sich nach dem konkreten Unternehmen.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-customer-success": {
+      "title": "Deutschsprachige/r Customer Success Manager/in",
+      "category": "Account Management & Customer Success",
+      "overview": "Customer Success Manager unterstützen Geschäftskunden dabei, Produkte erfolgreich einzuführen und ihre Ziele dauerhaft zu erreichen. In einer deutschsprachigen Rolle betreuen Sie möglicherweise Unternehmen aus Deutschland, Österreich und der Schweiz, während Sie mit internationalen Teams in Irland zusammenarbeiten. Ausgangspunkt ist meist die Frage, welchen Nutzen der Kunde erreichen möchte. Darauf aufbauend planen Sie die Einführung, koordinieren Schulungen und erkennen frühzeitig Risiken für die Kundenbeziehung. Sehr gute Deutschkenntnisse erleichtern vertrauensvolle Gespräche und die verständliche Erklärung von Produktfunktionen. Englisch wird häufig für interne Abstimmungen mit Support, Produktentwicklung und Vertrieb benötigt. Je nach Arbeitgeber ist die Tätigkeit eher beratend oder umfasst zusätzlich Vertragsverlängerungen und Umsatzentwicklung. Erfolgreiche Customer Success Manager verbinden Empathie mit strukturierter Kundenbetreuung, Produktwissen und der Analyse von Nutzungsdaten. Entwicklungsmöglichkeiten bestehen im strategischen Customer Success, Implementierungsconsulting, Customer Operations oder in Führungspositionen. Kundenportfolio, Verantwortlichkeiten und variable Vergütung sind nicht bei allen Unternehmen gleich.",
+      "responsibilities": [
+        "Onboarding und Erfolgsplanung mit deutschsprachigen Kunden begleiten.",
+        "Gemeinsame Kundenziele definieren und Fortschritte überprüfen.",
+        "Produktnutzung durch Schulungen und Beratung fördern.",
+        "Nutzungsdaten und Kundenindikatoren auf Risiken untersuchen.",
+        "Komplexe Anliegen mit Support und Produktteams koordinieren.",
+        "Kundenziele, Zusagen und Gespräche im CRM dokumentieren.",
+        "Geschäftsbesprechungen vorbereiten und Kundennutzen aufzeigen.",
+        "Bei Bedarf Vertragsverlängerungen oder Ausbaupotenziale unterstützen."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse und gute Englischkommunikation.",
+        "Erfahrung im Customer Success, Account Management oder Consulting.",
+        "Fähigkeit, vertrauensvolle Kundenbeziehungen aufzubauen.",
+        "Strukturiertes Problemlösen und überzeugende Präsentationen.",
+        "Bereitschaft, Produkte und Nutzungsdaten zu verstehen."
+      ],
+      "desirable": [
+        "Erfahrung im SaaS-Onboarding oder mit Customer-Health-Systemen.",
+        "Kenntnisse in Gainsight, Salesforce oder ähnlichen Anwendungen."
+      ],
+      "company": "Mögliche Arbeitgeber sind internationale Software-, Cloud- und Digitalunternehmen, die Kunden in der DACH-Region betreuen. Produkt, Kundenportfolio und kaufmännische Verantwortung werden erst bei einer bestätigten Vakanz festgelegt.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-digital-advertising": {
+      "title": "Deutschsprachige/r Spezialist/in für digitalen Werbevertrieb",
+      "category": "Marketing & Werbung",
+      "overview": "Fachkräfte im digitalen Werbevertrieb beraten Unternehmen, die über Online-Werbung neue Kunden erreichen möchten. Als deutschsprachige Spezialistin oder deutschsprachiger Spezialist betreuen Sie möglicherweise Werbetreibende und Agenturen in Deutschland, Österreich und der Schweiz aus einem internationalen Team in Irland. Sie verbinden kaufmännische Gespräche mit Wissen über Kampagnenziele, Werbeprodukte und Leistungskennzahlen. Dazu gehört es, Zielgruppen, Budgeteinsatz und mögliche Optimierungen zu besprechen und dabei die Richtlinien der jeweiligen Werbeplattform einzuhalten. Sehr gute Deutschkenntnisse sind wichtig für glaubwürdige Kundenberatung und die präzise Erläuterung von Ergebnissen. Englisch benötigen Sie für die Zusammenarbeit mit internationalen Fachabteilungen und Produktschulungen. Je nach Arbeitgeber liegt der Schwerpunkt auf der Gewinnung neuer Werbekunden, dem Ausbau bestehender Kundenbeziehungen oder der Kampagnenberatung. Mit Erfahrung sind Karriereschritte in Richtung Senior Advertising Sales, Account Strategy, Digital Marketing Consulting oder Teamleitung möglich. Plattformen, Ziele und Vergütungsmodelle unterscheiden sich zwischen den Unternehmen.",
+      "responsibilities": [
+        "Werbeziele und geschäftliche Anforderungen deutschsprachiger Kunden besprechen.",
+        "Passende digitale Werbeprodukte und Kampagnenansätze erklären.",
+        "Kampagnenkennzahlen prüfen und Optimierungsmöglichkeiten aufzeigen.",
+        "Budget-, Zielgruppen- und Reportingfragen verständlich erläutern.",
+        "Bei Bedarf Kundenpläne oder Ansätze zur Neukundengewinnung entwickeln.",
+        "Kundengespräche und Empfehlungen im CRM dokumentieren.",
+        "Mit Kampagnenbetrieb, Richtlinien- und Supportteams zusammenarbeiten.",
+        "Werberichtlinien, Plattformregeln und Datenschutzanforderungen beachten."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse und gute Englischkommunikation.",
+        "Vertriebliche Sicherheit und Interesse an digitaler Werbung.",
+        "Fähigkeit, Kennzahlen verständlich zu erklären.",
+        "Professionelle Kundenkommunikation und strukturierte Nachverfolgung.",
+        "Sicherer Umgang mit Tabellen und digitalen Geschäftsanwendungen."
+      ],
+      "desirable": [
+        "Erfahrung mit Werbeplattformen oder Agenturkunden.",
+        "Kenntnisse von CTR, CPC, Conversion und ROAS."
+      ],
+      "company": "Mögliche Arbeitgeber sind Adtech-Plattformen, digitale Medienunternehmen und Werbedienstleister mit Kunden in der DACH-Region. Diese Beschreibung behauptet keine Partnerschaft mit einer bestimmten Plattform oder einem Kunden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-technical-support": {
+      "title": "Deutschsprachige/r Spezialist/in im technischen Support",
+      "category": "Kundenservice & technischer Support",
+      "overview": "Im technischen Support helfen Sie Kunden dabei, Probleme mit Software, Geräten, Netzwerken oder Geschäftssystemen zu erkennen und zu beheben. Eine deutschsprachige Fachkraft kann Anwender und Administratoren in Deutschland, Österreich und der Schweiz unterstützen und gleichzeitig mit internationalen Technikteams in Irland zusammenarbeiten. Gefragt sind systematisches Troubleshooting, verständliche Dokumentation und die Fähigkeit, technische Sachverhalte für unterschiedliche Zielgruppen zu erklären. Sehr gute Deutschkenntnisse sind wichtig, wenn Sie Kunden Schritt für Schritt durch eine Problemlösung führen. Englisch wird häufig für interne Eskalationen, Dokumentation und Schulungen genutzt. Je nach Produkt geht es um Zugriffsprobleme, Konfiguration, Integrationen, Leistungseinbußen oder Störungen. Manche Teams arbeiten zu regulären Bürozeiten, andere im Schicht- oder Bereitschaftsdienst. Solche Bedingungen müssen für jede konkrete Stelle geprüft werden. Die Position bietet Entwicklungsmöglichkeiten im Senior Support, Solutions Engineering, in der Implementierung, im Cloud-Betrieb oder als Produktspezialist. Welche Systeme und Technologien eingesetzt werden, hängt vom Arbeitgeber ab.",
+      "responsibilities": [
+        "Technische Kundenanfragen auf Deutsch systematisch analysieren.",
+        "Logs, Fehlermeldungen und Reproduktionsschritte erfassen.",
+        "Lösungen für Kunden und Kollegen verständlich erklären.",
+        "Vorgänge und Lösungsschritte im Ticketsystem dokumentieren.",
+        "Komplexe Fehler mit aussagekräftigen Informationen an Entwickler eskalieren.",
+        "Sicherheitsvorgaben bei Konten- und Zugriffsfragen einhalten.",
+        "Wissensartikel und Analysen wiederkehrender Störungen verbessern.",
+        "Mit Produkt- und Serviceteams bei Kundenproblemen zusammenarbeiten."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse und klare Englischkommunikation.",
+        "Analytisches Denken und geduldiges Troubleshooting.",
+        "Grundkenntnisse von Software, Betriebssystemen oder Netzwerken.",
+        "Fähigkeit, technische Ergebnisse präzise zu dokumentieren.",
+        "Bewusstsein für Informationssicherheit und Kundendatenschutz."
+      ],
+      "desirable": [
+        "Erfahrung im Helpdesk, SaaS-Support oder in der IT-Administration.",
+        "Kenntnisse in APIs, SQL, Cloud-Diensten oder Ticketsystemen."
+      ],
+      "company": "Mögliche Arbeitgeber sind Cloud-, Software-, Cybersecurity- und IT-Dienstleistungsunternehmen mit deutschsprachigen Kunden. Technologien, Supportzeiten und Eskalationswege werden bei einer konkreten Stelle erläutert.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-trust-and-safety": {
+      "title": "Deutschsprachige/r Trust-&-Safety-Spezialist/in",
+      "category": "Trust & Safety",
+      "overview": "Trust-&-Safety-Teams unterstützen Online-Dienste dabei, ihre Regeln einheitlich anzuwenden und Nutzer vor Betrug, Missbrauch und schädlichen Aktivitäten zu schützen. In einer deutschsprachigen Rolle prüfen Sie möglicherweise Meldungen, Kontoverhalten oder Richtlinienfragen zu deutschsprachigen Inhalten. Dabei arbeiten Sie mit internationalen Betriebsteams in Irland zusammen. Sehr gute Deutschkenntnisse sind wichtig, um sprachliche Nuancen und den Kontext einer Meldung zu verstehen. Englisch wird häufig für interne Richtlinien, Eskalationen und Qualitätsprüfungen benötigt. Die Tätigkeit umfasst strukturierte Entscheidungen, nachvollziehbare Falldokumentation und die Zusammenarbeit mit Spezialisten bei schwierigen Vorgängen. Manche Positionen können die Sichtung belastender Inhalte oder Schichtarbeit beinhalten. Solche Anforderungen sollten vor einer Bewerbung transparent erklärt werden. Arbeitgeber können Schulungen, Unterstützungsangebote und klare Eskalationsprozesse bereitstellen, dies ist jedoch nicht garantiert. Mit Erfahrung sind Entwicklungen in Qualitätssicherung, Policy Operations, Ermittlungen, Risk Operations oder Teamleitung möglich. Welche Inhalte geprüft werden und welche Schutzmaßnahmen bestehen, hängt vom Unternehmen ab.",
+      "responsibilities": [
+        "Deutschsprachige Meldungen anhand dokumentierter Plattformregeln prüfen.",
+        "Kontext und Belege vor Entscheidungen sorgfältig bewerten.",
+        "Entscheidungen und Begründungen nachvollziehbar dokumentieren.",
+        "Dringende, unklare oder risikoreiche Fälle weiterleiten.",
+        "Wiederkehrende Missbrauchsmuster erkennen und melden.",
+        "Vertraulichkeit, Datenschutz und Informationssicherheit einhalten.",
+        "An Qualitätssicherung und Richtlinienschulungen teilnehmen.",
+        "Regeln einheitlich anwenden und angemessene Qualitätsziele verfolgen."
+      ],
+      "essential": [
+        "Sehr gutes Deutschverständnis und gutes schriftliches Englisch.",
+        "Sorgfältiges Urteilsvermögen und Umgang mit detaillierten Regeln.",
+        "Aufmerksamkeit für Kontext, Konsistenz und Dokumentation.",
+        "Belastbarkeit und Bereitschaft, sich über mögliche Inhaltsbelastungen zu informieren.",
+        "Verantwortungsvoller Umgang mit sensiblen Informationen."
+      ],
+      "desirable": [
+        "Erfahrung in Moderation, Content Operations, Kundenservice oder Untersuchungen.",
+        "Kenntnisse von Plattformrichtlinien und Qualitätsprüfungen."
+      ],
+      "company": "Mögliche Arbeitgeber sind Online-Marktplätze, soziale Plattformen und externe Trust-&-Safety-Dienstleister. Inhaltliche Belastungen, Schichten und Unterstützungsangebote müssen vom konkreten Arbeitgeber offengelegt werden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-finance-operations": {
+      "title": "Deutschsprachige/r Finance Operations Specialist",
+      "category": "Finanzen & Compliance",
+      "overview": "Finance-Operations-Fachkräfte sorgen dafür, dass finanzielle Abläufe korrekt und termingerecht durchgeführt werden. Als deutschsprachige Fachkraft in Dublin können Sie beispielsweise die Kreditoren- oder Debitorenbuchhaltung, Rechnungsstellung, Abstimmungen oder Finanzanfragen für deutschsprachige Geschäftsbereiche unterstützen. Häufig arbeiten Sie in einem Shared-Service-Center oder internationalen Finanzteam. Deutsch wird für die Kommunikation mit Kunden und Lieferanten benötigt, während Englisch die interne Zusammenarbeit und Berichterstattung erleichtert. Wichtig sind Genauigkeit, verlässliche Kontrollen und die Fähigkeit, Abweichungen zwischen Rechnungen, Zahlungen und Systemdaten zu untersuchen. Je nach Unternehmen nutzen Sie ERP-Systeme, Tabellenkalkulationen und definierte Freigabeprozesse. Einige Stellen konzentrieren sich auf Transaktionen, andere bieten Raum für Prozessverbesserungen, Ausnahmeanalysen oder Monatsabschlussarbeiten. Entwicklungsmöglichkeiten bestehen im Senior Finance Operations, Financial Analysis, internen Kontrollen, in der Teamleitung oder im Rechnungswesen. Konkrete Rechnungslegungsstandards, Qualifikationen und Verantwortlichkeiten unterscheiden sich je nach Arbeitgeber und Erfahrungsniveau.",
+      "responsibilities": [
+        "Rechnungen, Zahlungen und Finanzdaten korrekt bearbeiten oder prüfen.",
+        "Mit deutschsprachigen Lieferanten und Kunden zu Rückfragen kommunizieren.",
+        "Abstimmungsdifferenzen untersuchen und Lösungen dokumentieren.",
+        "Daten in Finanz- und ERP-Systemen zuverlässig pflegen.",
+        "Monatsabschlussarbeiten und betriebliche Berichte unterstützen.",
+        "Freigabe-, Funktionstrennungs- und Dokumentationskontrollen beachten.",
+        "Ungewöhnliche Transaktionen oder mögliche Fehler eskalieren.",
+        "Wiederkehrende Finanzabläufe auf Verbesserungen prüfen."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse und gute Englischkommunikation.",
+        "Hohe Zahlenaffinität und Genauigkeit.",
+        "Sicherer Umgang mit Tabellen und strukturierten Finanzdaten.",
+        "Fähigkeit, Kontrollen einzuhalten und Fristen zu beachten.",
+        "Vertraulicher Umgang mit Geschäfts- und Personendaten."
+      ],
+      "desirable": [
+        "Erfahrung in Kreditoren, Debitoren, Abrechnung oder Shared Services.",
+        "Kenntnisse in SAP, Oracle, NetSuite oder anderen ERP-Systemen."
+      ],
+      "company": "Mögliche Arbeitgeber sind internationale Shared-Service-Center, Technologieunternehmen und Unternehmensdienstleister in Irland. Finanzfunktion, Systeme und Qualifikationsanforderungen hängen von der konkreten Stelle ab.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-kyc-compliance": {
+      "title": "Deutschsprachige/r KYC- und Compliance-Analyst/in",
+      "category": "Finanzen & Compliance",
+      "overview": "KYC- und Compliance-Analysten unterstützen Finanzinstitute und regulierte Unternehmen dabei, Kunden zu identifizieren, Informationen zu prüfen und Risiken im Zusammenhang mit Finanzkriminalität zu erkennen. In einer deutschsprachigen Position können Sie Unterlagen oder Geschäftspartner aus Deutschland, Österreich und der Schweiz betreuen und mit einem Compliance- oder Operationsteam in Irland zusammenarbeiten. Deutsch ist hilfreich für die Prüfung von Dokumenten und die Kommunikation mit Ansprechpartnern. Englisch wird meist für interne Richtlinien, Fallakten und Eskalationen benötigt. Die Aufgaben können Customer Due Diligence, wirtschaftlich Berechtigte, Screening-Treffer, regelmäßige Überprüfungen oder die Nachbearbeitung fehlender Informationen umfassen. Analysten müssen zwischen gewöhnlichen Informationslücken und auffälligen Fällen unterscheiden und dokumentierte Verfahren einhalten. Je nach Arbeitgeber gelten besondere aufsichtsrechtliche, prüfungsbezogene und sicherheitstechnische Anforderungen. Mit Erfahrung sind Spezialisierungen in Enhanced Due Diligence, AML-Untersuchungen, Sanktionen, Compliance-Beratung oder Teamleitung möglich. Das anwendbare Regelwerk, die Systeme und Entscheidungskompetenzen richten sich nach dem jeweiligen Unternehmen.",
+      "responsibilities": [
+        "Identitäts- und Sorgfaltspflichtunterlagen von Kunden prüfen.",
+        "Informationen zu wirtschaftlich Berechtigten und Geschäftsprofilen bewerten.",
+        "Screening-Treffer untersuchen und Ergebnisse sachlich dokumentieren.",
+        "Mit deutschsprachigen Kunden oder internen Teams kommunizieren.",
+        "Vollständige, prüffähige Fallakten und Nachweise führen.",
+        "Ungewöhnliche Vorgänge und Richtlinienausnahmen eskalieren.",
+        "Regelmäßige Kundenüberprüfungen und Datenbereinigungen unterstützen.",
+        "Sensible Daten schützen und Zugriffsberechtigungen einhalten."
+      ],
+      "essential": [
+        "Sehr gute Deutschkenntnisse und gute Englischkommunikation.",
+        "Sorgfalt und faktenbasierte Analysefähigkeit.",
+        "Fähigkeit, Richtlinien zu befolgen und Entscheidungen zu dokumentieren.",
+        "Vertraulichkeit beim Umgang mit sensiblen Kundendaten.",
+        "Interesse an Geldwäscheprävention und Compliance."
+      ],
+      "desirable": [
+        "Erfahrung in Bankprozessen, Kunden-Onboarding, KYC oder AML.",
+        "Kenntnisse zu Kundensorgfaltspflichten, Sanktionen oder wirtschaftlich Berechtigten."
+      ],
+      "company": "Mögliche Arbeitgeber sind regulierte Finanzinstitute, Zahlungsdienstleister, Fintechs und spezialisierte Finanzdienstleister in Irland. Regulatorische Pflichten, Freigaberechte und Onboarding-Prozesse hängen vom tatsächlichen Arbeitgeber ab.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    }
+  }
+}
