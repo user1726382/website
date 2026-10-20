@@ -604,6 +604,60 @@
       "location": "Dublin, Irland",
       "employmentType": "Vollzeit",
       "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-customer-success-director": {
+      "title": "Senior Customer Success Director (DACH)",
+      "category": "Führungskräfte & Geschäftsleitung",
+      "overview": "Customer-Success-Strategie und Teams für Unternehmenskunden in deutschsprachigen Märkten führen. Kundenbindung, Beziehungen zur Geschäftsleitung und Servicequalität verantworten. Kennzahlen zur Kundengesundheit entwickeln, Eskalationen steuern und Kundenerfolge mit Produkt- und Vertriebsleitung abstimmen.",
+      "responsibilities": [
+        "Regionale Customer-Success-Teams führen.",
+        "Kundenbindung verantworten.",
+        "Geschäftsleitungsbeziehungen pflegen.",
+        "Strategische Verlängerungen koordinieren.",
+        "Kunden-Onboarding verbessern.",
+        "Kundenrisiken und Ergebnisse berichten."
+      ],
+      "essential": [
+        "Führungserfahrung im Customer Success.",
+        "Fließendes Deutsch und Englisch.",
+        "Enterprise-Retention-Erfahrung.",
+        "Personalführung."
+      ],
+      "desirable": [
+        "Aufbau von SaaS-Customer-Success-Teams.",
+        "Customer-Health-Plattformen."
+      ],
+      "company": "Unternehmenssoftwareanbieter mit DACH-Geschäftskunden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-sales-director": {
+      "title": "Sales Director (deutschsprachige Märkte)",
+      "category": "Führungskräfte & Geschäftsleitung",
+      "overview": "Vertriebsteams für deutschsprachige Geschäftsmärkte führen. Account Executives und Führungskräfte coachen, Pipeline-Reviews etablieren, Vertriebsaktivitäten steuern und Umsätze mit Marketing und Finanzen planen. Der Schwerpunkt liegt auf operativer Teamleistung und täglicher Vertriebsführung.",
+      "responsibilities": [
+        "Vertriebsteams und Führungskräfte leiten.",
+        "Ziele und Pipeline-Standards definieren.",
+        "Komplexe Abschlüsse begleiten.",
+        "Vertriebsprognosen prüfen.",
+        "Einstellung und Einarbeitung koordinieren.",
+        "Umsatzplanung mit Finanzen abstimmen."
+      ],
+      "essential": [
+        "B2B-Vertriebsführung.",
+        "Professionelles Deutsch und Englisch.",
+        "Umsatzprognosen.",
+        "Erfahrung im Teamcoaching."
+      ],
+      "desirable": [
+        "Bereichsübergreifende Sales Operations.",
+        "CRM-Analysen."
+      ],
+      "company": "Internationale B2B-Unternehmen mit DACH-Vertriebsteams.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
     }
   }
 }

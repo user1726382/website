@@ -1006,11 +1006,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Senior Customer Success Director (DACH)",
       "category": "Senior Leadership & Executive",
@@ -1022,7 +1022,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Lead customer success strategy and teams for enterprise accounts in German-speaking markets. Own retention frameworks, executive engagement, service quality and expansion collaboration. Develop customer health measures, oversee escalations and align customer outcomes with product and commercial leadership.",
+      "responsibilities": [
+        "Lead regional customer success teams.",
+        "Own retention frameworks.",
+        "Sponsor executive relationships.",
+        "Coordinate strategic renewals.",
+        "Improve customer onboarding.",
+        "Report customer risks and outcomes."
+      ],
+      "essential": [
+        "Senior customer success leadership.",
+        "Fluent German and English.",
+        "Enterprise retention experience.",
+        "People management skills."
+      ],
+      "desirable": [
+        "SaaS customer success scaling.",
+        "Customer health platforms."
+      ],
+      "company": "Enterprise software companies serving DACH business customers."
     },
     {
       "id": "R23",
@@ -1032,11 +1052,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Sales Director (German-Speaking Markets)",
       "category": "Senior Leadership & Executive",
@@ -1048,7 +1068,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Lead sales teams serving German-speaking business markets. Coach account executives and managers, run structured pipeline reviews, own execution and coordinate with marketing and finance on revenue planning. Compared with a regional VP, this position focuses on operational team performance and day-to-day sales leadership.",
+      "responsibilities": [
+        "Lead sales teams and managers.",
+        "Set targets and pipeline standards.",
+        "Coach complex deals.",
+        "Review sales forecasts.",
+        "Coordinate hiring and onboarding.",
+        "Plan revenue with finance."
+      ],
+      "essential": [
+        "B2B sales management experience.",
+        "Professional German and English.",
+        "Revenue forecasting skills.",
+        "Team coaching experience."
+      ],
+      "desirable": [
+        "Multi-team sales operations.",
+        "CRM analytics."
+      ],
+      "company": "International B2B businesses with sales teams serving DACH markets."
     }
   ]
 }
