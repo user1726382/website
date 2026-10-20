@@ -1,6 +1,6 @@
 # The Link — Roles
 
-This section is a set of **career profiles**, not verified job advertisements. Until an actual employer authorises a specific opening, keep `status: "career-profile"` and do not use `JobPosting` schema, employer claims, deadlines or claims of active hiring.
+This section contains **23 bilingual German-speaking role categories**. The site presents professional career pages with **Apply Now** mailto actions. Do not claim a named employer has an active vacancy without written authorisation. Until an actual employer authorises a specific opening, keep `status: "career-profile"` and do not use `JobPosting` schema, employer claims, deadlines or claims of active hiring.
 
 ## Update a role
 
@@ -19,8 +19,12 @@ The contact email is currently `leoedwlashe@gmail.com`, as configured on the hom
 
 ## Confirmed vacancies
 
-Once an employer authorises a specific role, create a verified role entry with `status: "open"` and `authorised: true` and replace the generic employer copy with accurate terms, benefits and dates. The generator switches the action label to **Apply Now**. It does not automatically generate `JobPosting` structured data; only add that after all required details have been verified.
+The **Apply Now** label opens a role-specific email to The Link, including for general role categories. Once an employer authorises a specific vacancy, set `status: "open"` and `authorised: true` and replace the generic company copy with accurate employer terms, benefits and dates. It does not automatically generate `JobPosting` structured data; only add that after all required details have been verified.
 
 ## Languages
 
 The homepage's DE/EN switch points its Roles link to the matching language. Role pages use a DE/EN link to switch between matching English and German pages, preserving the selected role. Both languages use the same salaries, slugs, status and contact email from `roles/roles.json`; German descriptions, responsibilities and labels are in `roles/roles-de.json`.
+
+## Salary methodology
+
+See [`SALARY_METHODOLOGY.md`](SALARY_METHODOLOGY.md) for all 23 Irish base benchmarks, assumed language premiums, the additional 10% commercial uplift, and cited 2026 salary guides. The displayed salary bands are modelled market targets and are not employer-approved offers. German fluency premiums are assumptions, not empirically verified universal premiums.
