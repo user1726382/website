@@ -1,6 +1,6 @@
-# The Link Advisory — Germany × Ireland
+# The Link — Germany × Ireland
 
-An original, bilingual B2B consulting website for recruitment, market entry and outsourced marketing. **The Link Advisory is a provisional working brand; check naming/trademark availability before launch.** The site is an application project, not a deployed public website.
+An original, bilingual B2B consulting website for recruitment, market entry and outsourced marketing. **The Link is a provisional working brand; check naming/trademark availability before launch.** The site is an application project, not a deployed public website.
 
 ![Homepage design](preview/desktop.png)
 
@@ -148,7 +148,7 @@ The default domain is `https://example.com` until configured. Ensure actual doma
 ## Go-live checklist (essential)
 
 - [ ] Confirm real registered company name, legal form, governing jurisdiction, registration numbers, business address, representatives and contact details.
-- [ ] Check proposed *The Link Advisory* brand and domain for trademark/name conflicts.
+- [ ] Check proposed *The Link* brand and domain for trademark/name conflicts.
 - [ ] Confirm which services the company can actually deliver and whether any activities need licences or special disclosures; keep regulated advice out of scope unless appropriately authorized.
 - [ ] Replace and legally review the **Impressum/Legal Notice**, privacy notice, terms, candidate privacy notice and retention schedule in both languages. These ship as clearly marked **unapproved templates**.
 - [ ] Verify recruitment processes and applicable German/Irish recruitment, employment and anti-discrimination obligations.
