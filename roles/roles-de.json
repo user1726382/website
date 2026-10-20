@@ -442,6 +442,114 @@
       "location": "Dublin, Irland",
       "employmentType": "Vollzeit",
       "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-head-of-sales-dach": {
+      "title": "Head of Sales / Country Manager (DACH)",
+      "category": "Führungskräfte & Geschäftsleitung",
+      "overview": "Markteintritt, Wachstum und Vertrieb für Deutschland, Österreich und die Schweiz verantworten. Go-to-Market-Pläne entwickeln, regionale Teams aufbauen, strategische Beziehungen pflegen und lokale Prioritäten mit der internationalen Zentrale abstimmen. Die Verantwortung kann vom Vertrieb bis zur Landesorganisation mit Ergebnisverantwortung reichen.",
+      "responsibilities": [
+        "DACH-Markteintrittspläne entwickeln.",
+        "Regionale Vertriebsteams führen.",
+        "Budgets und Kennzahlen definieren.",
+        "Strategische Kunden und Partner betreuen.",
+        "Internationale Prioritäten abstimmen.",
+        "Regionale Risiken und Ergebnisse berichten."
+      ],
+      "essential": [
+        "Vertriebs- oder Landesführung.",
+        "Fließendes Deutsch und Englisch.",
+        "Kenntnis der DACH-Märkte.",
+        "Strategische Umsetzung."
+      ],
+      "desirable": [
+        "Erfahrung mit Markteintritten.",
+        "Ergebnisverantwortung."
+      ],
+      "company": "Internationale Unternehmen beim Aufbau ihres DACH-Geschäfts.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-senior-solutions-architect": {
+      "title": "Senior Solutions Architect (deutschsprachig)",
+      "category": "Technologie & Support",
+      "overview": "Unternehmensweite IT-Architekturen für deutschsprachige Kunden entwickeln. Geschäfts-, Sicherheits- und Leistungsanforderungen in umsetzbare Systemdesigns übersetzen, Integrationsentscheidungen begleiten und technische Risiken steuern. Mit deutschsprachigen IT-Führungskräften und internationalen Entwicklungsteams kommunizieren.",
+      "responsibilities": [
+        "Architekturworkshops leiten.",
+        "Integrations- und Sicherheitsmuster definieren.",
+        "Technische Risiken prüfen.",
+        "Designentscheidungen dokumentieren.",
+        "Umsetzungsteams beraten.",
+        "Architektur-Governance unterstützen."
+      ],
+      "essential": [
+        "Erfahrung mit Unternehmensarchitektur.",
+        "Technisches Deutsch und Englisch.",
+        "Cloud- und Integrationskenntnisse.",
+        "Abwägung technischer Zielkonflikte."
+      ],
+      "desirable": [
+        "Cloud-Architektur-Zertifikate.",
+        "Erfahrung in regulierten Branchen."
+      ],
+      "company": "Cloud-Anbieter und Beratungen mit DACH-Großkunden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-strategic-account-director": {
+      "title": "Strategic / Global Account Director (DACH)",
+      "category": "Vertrieb & Geschäftsentwicklung",
+      "overview": "Beziehungen zur Geschäftsleitung und mehrjährige Wachstumspläne für große DACH-Kunden verantworten. Internationale Account-Teams koordinieren, komplexe Vertragsverlängerungen und Partnerschaften steuern und gemeinsame Geschäftspläne entwickeln. Langfristiger Kundennutzen und kaufmännische Governance stehen im Mittelpunkt.",
+      "responsibilities": [
+        "Strategische Kundenpläne entwickeln.",
+        "Geschäftsleitungsbeziehungen führen.",
+        "Internationale Teams koordinieren.",
+        "Ausbaupotenziale erkennen.",
+        "Vertragsverhandlungen steuern.",
+        "Kundenrisiken und Zusagen verfolgen."
+      ],
+      "essential": [
+        "Strategisches Großkundenmanagement.",
+        "Deutsch und Englisch auf Führungsebene.",
+        "Komplexe Vertragsverhandlungen.",
+        "Bereichsübergreifende Führung."
+      ],
+      "desirable": [
+        "Globale Vertragsgestaltung.",
+        "Technologie- oder Dienstleistungserfahrung."
+      ],
+      "company": "Globale B2B-Anbieter mit strategischen DACH-Kunden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-senior-legal-counsel": {
+      "title": "Senior Legal Counsel / Commercial Counsel (DACH)",
+      "category": "Finanzen & Compliance",
+      "overview": "Komplexe Handelsverträge und rechtliche Risiken im DACH-Geschäft begleiten. Unternehmensverträge verhandeln, Fachabteilungen beraten, externe Kanzleien koordinieren und Vertragspositionen mit Recht und internen Richtlinien abstimmen. Sichere Vertragsgestaltung auf Deutsch und Englisch ist wichtig; Zulassungsvoraussetzungen hängen von der Tätigkeit ab.",
+      "responsibilities": [
+        "Verträge entwerfen und verhandeln.",
+        "Zu Handelsrisiken beraten.",
+        "Externe DACH-Kanzleien koordinieren.",
+        "Datenschutz- und Technologieklauseln prüfen.",
+        "Rechtliche Freigaben pflegen.",
+        "Wesentliche Streitigkeiten eskalieren."
+      ],
+      "essential": [
+        "Juristische Qualifikation.",
+        "Juristische Vertragssprache Deutsch/Englisch.",
+        "Erfahrung im Handelsvertragsrecht.",
+        "Berufliche Vertraulichkeit."
+      ],
+      "desirable": [
+        "SaaS- oder Datenschutzrecht.",
+        "Grenzüberschreitende Vertragspraxis."
+      ],
+      "company": "Multinationale Unternehmen mit DACH-Rechtsberatung.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
     }
   }
 }

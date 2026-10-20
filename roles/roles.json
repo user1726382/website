@@ -730,11 +730,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Head of Sales / Country Manager (DACH)",
       "category": "Senior Leadership & Executive",
@@ -746,7 +746,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Own market entry, growth and commercial execution for Germany, Austria and Switzerland. Develop go-to-market plans, recruit regional teams, build strategic relationships and align local priorities with international headquarters. The scope may cover sales leadership or broader country operations with profit-and-loss responsibility.",
+      "responsibilities": [
+        "Develop DACH go-to-market plans.",
+        "Lead regional commercial teams.",
+        "Set budgets and performance measures.",
+        "Manage strategic customers and partners.",
+        "Coordinate global operational priorities.",
+        "Report regional risks and results."
+      ],
+      "essential": [
+        "Senior sales or country leadership.",
+        "Fluent German and English.",
+        "Knowledge of DACH markets.",
+        "Strategic execution skills."
+      ],
+      "desirable": [
+        "New-market launch experience.",
+        "P&L leadership."
+      ],
+      "company": "International companies developing their DACH business."
     },
     {
       "id": "R17",
@@ -756,11 +776,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Senior Solutions Architect (German-Speaking)",
       "category": "Technology & Support",
@@ -772,7 +792,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Design enterprise-scale architectures for German-speaking clients. Translate business, security and performance requirements into implementable system designs, guide integration decisions and work with delivery teams to manage technical risk. Communicate with German-speaking IT leaders and international engineering colleagues.",
+      "responsibilities": [
+        "Lead architecture discovery.",
+        "Define integration and security patterns.",
+        "Review technical risks.",
+        "Document design decisions.",
+        "Advise delivery teams.",
+        "Support architecture governance."
+      ],
+      "essential": [
+        "Enterprise architecture experience.",
+        "Technical German and English.",
+        "Cloud and integration knowledge.",
+        "Ability to balance trade-offs."
+      ],
+      "desirable": [
+        "Cloud architecture certifications.",
+        "Regulated-industry experience."
+      ],
+      "company": "Cloud platforms and consultancies serving DACH enterprise clients."
     },
     {
       "id": "R18",
@@ -782,11 +822,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Strategic / Global Account Director (DACH)",
       "category": "Sales & Business Development",
@@ -798,7 +838,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Own executive relationships and multi-year growth plans for major DACH accounts. Coordinate international account teams, manage complex renewals and partnerships, and build joint business plans. Focus on long-term customer value, disciplined negotiations and commercial governance.",
+      "responsibilities": [
+        "Build strategic account plans.",
+        "Lead executive relationships.",
+        "Coordinate global delivery teams.",
+        "Identify expansion opportunities.",
+        "Manage commercial negotiations.",
+        "Track account risks and commitments."
+      ],
+      "essential": [
+        "Strategic account leadership.",
+        "Executive German and English.",
+        "Complex negotiation skills.",
+        "Cross-functional leadership."
+      ],
+      "desirable": [
+        "Global contract experience.",
+        "Technology or services background."
+      ],
+      "company": "Global B2B providers managing strategic DACH clients."
     },
     {
       "id": "R19",
@@ -808,11 +868,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Senior Legal Counsel / Commercial Counsel (DACH)",
       "category": "Finance & Compliance",
@@ -824,7 +884,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Advise on complex commercial contracts and legal risk for DACH operations. Negotiate enterprise agreements, support business stakeholders, coordinate local external counsel and align contract positions with applicable law and internal policy. Strong German and English drafting is required; jurisdictional eligibility depends on the employer's remit.",
+      "responsibilities": [
+        "Draft and negotiate contracts.",
+        "Advise on commercial risks.",
+        "Coordinate external DACH counsel.",
+        "Review privacy and technology clauses.",
+        "Maintain legal approval processes.",
+        "Escalate material disputes."
+      ],
+      "essential": [
+        "Qualified legal professional.",
+        "German and English legal drafting.",
+        "Commercial contracting expertise.",
+        "Professional confidentiality."
+      ],
+      "desirable": [
+        "SaaS or privacy law experience.",
+        "Cross-border commercial practice."
+      ],
+      "company": "Multinational businesses requiring DACH legal support."
     },
     {
       "id": "R20",
