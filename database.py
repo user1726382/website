@@ -4,7 +4,7 @@ For multi-instance or serverless deployment, replace with managed PostgreSQL.
 import os, sqlite3, uuid, datetime
 from pathlib import Path
 
-DB_PATH = os.getenv('DB_PATH', './data/bridgefield.sqlite3')
+DB_PATH = os.getenv('DB_PATH', './data/the-link.sqlite3')
 
 def connect():
     path = Path(DB_PATH); path.parent.mkdir(parents=True, exist_ok=True)

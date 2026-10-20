@@ -1,4 +1,4 @@
-"""Bridgefield Advisory — bilingual B2B site and single-instance admin.
+"""The Link Advisory — bilingual B2B site and single-instance admin.
 Run: uvicorn app:app --reload. Set env secrets before a public deployment.
 """
 from __future__ import annotations
@@ -26,15 +26,15 @@ def resolved(p):
     v=Path(p)
     return v if v.is_absolute() else ROOT / v
 
-db.DB_PATH=str(resolved(os.getenv('DB_PATH','./data/bridgefield.sqlite3')))
+db.DB_PATH=str(resolved(os.getenv('DB_PATH','./data/the-link.sqlite3')))
 UPLOAD_DIR=resolved(os.getenv('UPLOAD_DIR','./private_uploads'))
 MEDIA_DIR=resolved(os.getenv('MEDIA_DIR','./media_uploads'))
 MEDIA_DIR.mkdir(parents=True, exist_ok=True)
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 try: UPLOAD_DIR.chmod(0o700)
 except Exception: pass
-COMPANY=os.getenv('SITE_NAME','Bridgefield Advisory')
-WORDMARK=os.getenv('BRAND_WORDMARK','bridgefield')
+COMPANY=os.getenv('SITE_NAME','The Link Advisory')
+WORDMARK=os.getenv('BRAND_WORDMARK','the link')
 SITE_DOMAIN=os.getenv('SITE_DOMAIN','https://example.com').rstrip('/')
 COOKIE_SECURE=os.getenv('COOKIE_SECURE','false').lower()=='true'
 SESSION_SECRET=os.getenv('SESSION_SECRET') or secrets.token_urlsafe(48)
@@ -64,7 +64,7 @@ async def lifespan(app):
     db.init()
     yield
 
-app=FastAPI(title='Bridgefield Advisory', docs_url=None, redoc_url=None, lifespan=lifespan)
+app=FastAPI(title='The Link Advisory', docs_url=None, redoc_url=None, lifespan=lifespan)
 app.add_middleware(SessionMiddleware,secret_key=SESSION_SECRET,https_only=COOKIE_SECURE,same_site='lax',max_age=60*60*6)
 app.mount('/static',StaticFiles(directory=str(ROOT/'static')),name='static')
 templates=Jinja2Templates(directory=str(ROOT/'templates'))
