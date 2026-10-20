@@ -1,4 +1,4 @@
-// Run: node scripts/build-roles.mjs
+// Run: node scripts/build-roles.mjs && node scripts/build-roles-de.mjs
 // Single source of truth: roles/roles.json. Generated HTML must be committed with data changes.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -50,11 +50,16 @@ function listing() {
   const main = '<main><section class="hero"><div class="wrap"><div class="eyebrow">German-speaking careers · Ireland</div><h1>Explore German-Speaking Opportunities in Ireland</h1><p>Discover exciting career opportunities with international companies in Ireland. From technology sales and customer success to finance and compliance, we help German-speaking professionals take the next step in their careers.</p><p class="intro-note">Explore ' + data.roles.length + ' career paths for German-speaking professionals. These are illustrative role profiles, not confirmed open vacancies. Register your interest in future opportunities.</p></div></section><div class="wrap"><section class="filters" aria-label="Filter career paths"><div class="filter-grid"><div class="field"><label for="role-search">Search roles</label><input id="role-search" type="search" placeholder="Job title or keyword" autocomplete="off"></div><div class="field"><label for="role-category">Category</label><select id="role-category"><option value="">All categories</option>' + options + '</select></div><div class="field"><label for="role-salary">Indicative annual salary</label><select id="role-salary"><option value="">Any salary</option><option value="35000-45000">€35k–€45k (overlapping)</option><option value="45000-60000">€45k–€60k (overlapping)</option><option value="60000+">€60k+ (overlapping)</option></select></div><div class="field"><label for="role-location">Location</label><select id="role-location"><option value="">All locations</option>' + [...new Set(data.roles.map(r=>r.location))].map(x=>'<option value="' + escapeHTML(x) + '">' + escapeHTML(x) + '</option>').join('') + '</select></div></div><div class="filter-bottom"><p id="result-count" role="status" aria-live="polite">' + data.roles.length + ' of ' + data.roles.length + ' career paths</p><button id="reset-filters" class="text-button" type="button">Clear filters</button></div></section><div class="copy-row" style="margin:0 0 22px"><span>Prefer to email us directly? <a href="mailto:' + data.contactEmail + '">' + data.contactEmail + '</a></span><button type="button" data-copy-email="' + data.contactEmail + '">Copy email</button><span class="copy-status" role="status" aria-live="polite"></span></div><div class="cards" id="role-cards">' + data.roles.map(card).join('') + '</div><div class="no-results" id="no-results" hidden><h2>No matching roles</h2><p>Try another keyword, salary range or category.</p><button id="empty-reset" class="btn" type="button">Reset filters</button></div><p class="disclaimer" style="margin-bottom:55px">' + legalNote + ' Salary ranges do not represent offers from a named employer. Please read our <a href="../legal/en/candidates.html" style="text-decoration:underline">candidate privacy information</a> before sending a CV.</p></div></main>';
   return documentHTML('Explore German-Speaking Opportunities in Ireland','Explore German-speaking career paths in Dublin across sales, customer success, support, finance and compliance.',1,main);
 }
-fs.writeFileSync(path.join(directory,'index.html'),listing());
+function withLanguageToggle(html,slug='') {
+  const german = slug ? '../de/'+slug+'/' : 'de/';
+  return html.replace('</nav></div></header>', '<a class="lang" lang="de" hreflang="de" href="'+german+'" aria-label="Auf Deutsch anzeigen">DE</a></nav></div></header>')
+    .replace('<link rel="stylesheet"', '<link rel="alternate" hreflang="en" href="./"><link rel="alternate" hreflang="de" href="'+german+'"><link rel="stylesheet"');
+}
+fs.writeFileSync(path.join(directory,'index.html'),withLanguageToggle(listing()));
 for (const r of data.roles) {
   if (!/^[a-z0-9-]+$/.test(r.slug)) throw Error('Unsafe slug: '+r.slug);
   const target = path.join(directory,r.slug);
   fs.mkdirSync(target,{recursive:true});
-  fs.writeFileSync(path.join(target,'index.html'),detail(r));
+  fs.writeFileSync(path.join(target,'index.html'),withLanguageToggle(detail(r),r.slug));
 }
 console.log('Generated roles landing page and '+data.roles.length+' detail pages from roles/roles.json');
