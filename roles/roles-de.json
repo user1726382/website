@@ -307,6 +307,141 @@
       "location": "Dublin, Irland",
       "employmentType": "Vollzeit",
       "language": "Sehr gute Deutschkenntnisse (in der Regel C1 oder gleichwertig); gutes Englisch"
+    },
+    "german-speaking-enterprise-account-executive": {
+      "title": "Deutschsprachige/r Enterprise Account Executive",
+      "category": "Vertrieb & Geschäftsentwicklung",
+      "overview": "Komplexe Vertriebsprozesse mit Großunternehmen in der DACH-Region steuern. Strategische Pipelines entwickeln, Entscheidungsgremien koordinieren, technische und kaufmännische Prüfungen begleiten und innerhalb genehmigter Rahmenbedingungen verhandeln. Erforderlich sind sichere deutschsprachige Kommunikation mit Führungskräften, belastbare Prognosen und Erfahrung mit langen Verkaufszyklen.",
+      "responsibilities": [
+        "Strategische Gebietspläne und Pipeline verantworten.",
+        "Beziehungen zu Führungskräften aufbauen.",
+        "Bedarfsanalysen und Präsentationen leiten.",
+        "Sicherheits- und Einkaufsprüfungen koordinieren.",
+        "Im genehmigten Rahmen verhandeln.",
+        "Prognosen und Kundenpläne pflegen."
+      ],
+      "essential": [
+        "Erfahrung im Enterprise-B2B-Vertrieb.",
+        "Geschäftssicheres Deutsch und Englisch.",
+        "Komplexe Verhandlungen und Stakeholder-Management.",
+        "Sichere Umsatzprognosen."
+      ],
+      "desirable": [
+        "SaaS- oder Cloud-Beschaffung.",
+        "Strukturierte Vertriebsmethoden."
+      ],
+      "company": "Internationale Unternehmenssoftwareanbieter mit DACH-Großkunden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-technical-sales-consultant": {
+      "title": "Deutschsprachige/r Technical Sales / Solutions Consultant",
+      "category": "Vertrieb & Geschäftsentwicklung",
+      "overview": "Geschäftliche Anforderungen und technische Lösungen für deutschsprachige Unternehmenskunden verbinden. Abläufe analysieren, Demonstrationen gestalten, technische Fragen beantworten und nutzenorientierte Angebote unterstützen. Deutsch ist für Kundenworkshops und Englisch für Produktentwicklung, Technik und Vertrieb erforderlich.",
+      "responsibilities": [
+        "Geschäftliche und technische Anforderungen aufnehmen.",
+        "Passende Demonstrationen durchführen.",
+        "Anwendungsfälle in Angebote übersetzen.",
+        "Ausschreibungen unterstützen.",
+        "Mit Vertrieb und Produktteams arbeiten.",
+        "Technische Annahmen dokumentieren."
+      ],
+      "essential": [
+        "Professionelles Deutsch und Englisch.",
+        "Erfahrung im beratenden technischen Vertrieb.",
+        "Technik verständlich erklären.",
+        "Strukturierte Anforderungsanalyse."
+      ],
+      "desirable": [
+        "API- oder SaaS-Integrationen.",
+        "Erfahrung im Solution Consulting."
+      ],
+      "company": "Internationale B2B-Software- und IT-Dienstleister mit DACH-Kunden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-solutions-engineer": {
+      "title": "Deutschsprachige/r Solutions Engineer / Pre-Sales Engineer",
+      "category": "Technologie & Support",
+      "overview": "Technisch tragfähige Lösungen für DACH-Großkunden vor Vertragsabschluss entwickeln und prüfen. Technische Anforderungsanalysen, Architekturgespräche, Demonstrationen und Machbarkeitsnachweise leiten. Grenzen dokumentieren und mit Entwicklungs- und Sicherheitsexperten zusammenarbeiten.",
+      "responsibilities": [
+        "Architekturworkshops leiten.",
+        "Integrationen demonstrieren.",
+        "Proofs of Concept planen.",
+        "Sicherheitsprüfungen unterstützen.",
+        "Technische Zielkonflikte erklären.",
+        "Übergaben an Implementierung koordinieren."
+      ],
+      "essential": [
+        "Erfahrung mit Softwareintegration.",
+        "Geschäftssicheres Deutsch und Englisch.",
+        "Technische Präsentation und Fehlersuche.",
+        "Erfahrung mit Unternehmenskunden."
+      ],
+      "desirable": [
+        "Cloud-, API- oder Sicherheitskenntnisse.",
+        "Erfahrung im Pre-Sales Engineering."
+      ],
+      "company": "Cloud-, Cybersecurity- und Softwareanbieter mit DACH-Großkunden.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-vp-sales-dach": {
+      "title": "VP Sales / Regional Sales Director (DACH)",
+      "category": "Führungskräfte & Geschäftsleitung",
+      "overview": "DACH-Vertriebsstrategie für ein internationales Unternehmen entwickeln und umsetzen. Vertriebsführungskräfte leiten, Gebiete gestalten, Umsatzplanung verantworten und komplexe Verkaufschancen begleiten. Erforderlich sind deutschsprachige Kommunikation auf Geschäftsleitungsebene und internationale Führungserfahrung.",
+      "responsibilities": [
+        "Regionale Umsatzstrategie verantworten.",
+        "Erfahrene Vertriebsleiter führen.",
+        "Gebietsprioritäten festlegen.",
+        "Prognosen überwachen.",
+        "Mit Finanzen und Marketing arbeiten.",
+        "DACH in der Unternehmensplanung vertreten."
+      ],
+      "essential": [
+        "Führungserfahrung im B2B-Vertrieb.",
+        "Deutsch und Englisch auf Führungsebene.",
+        "Erfahrung beim Teamaufbau.",
+        "Kaufmännische und personelle Führung."
+      ],
+      "desirable": [
+        "Enterprise-Vertrieb.",
+        "Strategische Planung."
+      ],
+      "company": "Internationale Technologie- und Dienstleistungsunternehmen mit DACH-Vertrieb.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
+    },
+    "german-speaking-finance-director-dach": {
+      "title": "Finance Director / Leitung Finanzen (DACH)",
+      "category": "Führungskräfte & Geschäftsleitung",
+      "overview": "Die Finanzfunktion einer DACH-Geschäftseinheit in einem internationalen Unternehmen führen. Planung, Reporting, Finanzkontrollen und kaufmännische Beratung verantworten. Mit deutschsprachigen Teams und der englischsprachigen Konzernfinanzfunktion zusammenarbeiten und Risiken gegenüber der Geschäftsleitung erläutern.",
+      "responsibilities": [
+        "Budgets und Prognosen steuern.",
+        "Abschlüsse und Kontrollen überwachen.",
+        "Geschäftsleitung beraten.",
+        "Finanzrisiken erläutern.",
+        "Mit Steuern, Treasury und Revision arbeiten.",
+        "Finanzteams entwickeln."
+      ],
+      "essential": [
+        "Finanzführungserfahrung.",
+        "Fließendes Deutsch und Englisch.",
+        "Reporting- und Kontrollkenntnisse.",
+        "Zusammenarbeit mit Geschäftsleitung."
+      ],
+      "desirable": [
+        "ACA, ACCA, CIMA oder gleichwertig.",
+        "Internationale ERP-Erfahrung."
+      ],
+      "company": "Multinationale Unternehmen mit DACH-Finanzorganisation.",
+      "location": "Dublin, Irland",
+      "employmentType": "Vollzeit",
+      "language": "Geschäftssicheres Deutsch und gutes Englisch"
     }
   }
 }

@@ -157,11 +157,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "German-Speaking Enterprise Account Executive",
       "category": "Sales & Business Development",
@@ -173,7 +173,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Lead complex, multi-stakeholder sales cycles with large organisations across the DACH region. Build strategic pipelines, map buying committees, coordinate technical and commercial evaluation, and negotiate within approved frameworks. This role requires executive German-language communication, structured forecasting and experience managing longer deal cycles.",
+      "responsibilities": [
+        "Own enterprise territory plans and pipeline.",
+        "Build senior buyer relationships.",
+        "Lead discovery and executive presentations.",
+        "Coordinate security and procurement reviews.",
+        "Negotiate within approved terms.",
+        "Maintain forecasts and account plans."
+      ],
+      "essential": [
+        "Enterprise B2B sales experience.",
+        "Fluent business German and English.",
+        "Complex negotiation and stakeholder management.",
+        "Strong forecasting skills."
+      ],
+      "desirable": [
+        "SaaS or cloud procurement.",
+        "Structured enterprise sales methods."
+      ],
+      "company": "International enterprise software providers serving large DACH accounts."
     },
     {
       "id": "R05",
@@ -526,11 +546,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "German-Speaking Technical Sales / Solutions Consultant",
       "category": "Sales & Business Development",
@@ -542,7 +562,27 @@
         "germanPremiumPercent": 4,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Bridge commercial requirements and technical solutions for German-speaking business customers. Analyse workflows, shape demonstrations, respond to technical questions and support value-led proposals. German is needed for customer workshops and English for collaboration with product, engineering and sales colleagues.",
+      "responsibilities": [
+        "Discover business and technical requirements.",
+        "Deliver tailored demonstrations.",
+        "Translate use cases into proposals.",
+        "Support RFP responses.",
+        "Partner with sales and product teams.",
+        "Document technical assumptions."
+      ],
+      "essential": [
+        "Professional German and English.",
+        "Technical consultative selling experience.",
+        "Explain technology to buyers.",
+        "Structured requirements gathering."
+      ],
+      "desirable": [
+        "API or SaaS integration experience.",
+        "Solution consulting background."
+      ],
+      "company": "International B2B software and IT service companies with DACH customers."
     },
     {
       "id": "R13",
@@ -552,11 +592,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "German-Speaking Solutions Engineer / Pre-Sales Engineer",
       "category": "Technology & Support",
@@ -568,7 +608,27 @@
         "germanPremiumPercent": 4,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Design and validate technical solutions for DACH enterprise buyers before purchase. Lead technical discovery, architecture discussions, demonstrations and proofs of concept while partnering with commercial account teams. Document constraints accurately and coordinate with engineering and security specialists.",
+      "responsibilities": [
+        "Lead technical architecture workshops.",
+        "Design integration demonstrations.",
+        "Run proof-of-concept plans.",
+        "Support security due diligence.",
+        "Explain technical trade-offs.",
+        "Coordinate implementation handovers."
+      ],
+      "essential": [
+        "Software integration experience.",
+        "Business-fluent German and English.",
+        "Technical presentation and troubleshooting.",
+        "Enterprise stakeholder experience."
+      ],
+      "desirable": [
+        "Cloud, API or security expertise.",
+        "Pre-sales engineering background."
+      ],
+      "company": "Enterprise cloud, cybersecurity and software providers serving DACH organisations."
     },
     {
       "id": "R14",
@@ -578,11 +638,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "VP of Sales / Regional Sales Director (DACH)",
       "category": "Senior Leadership & Executive",
@@ -594,7 +654,27 @@
         "germanPremiumPercent": 0,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Set and execute DACH commercial strategy for an international business. Lead sales managers, define territory coverage, own revenue planning and coach senior sellers through complex opportunities. Requires executive German-language communication, cross-border leadership and accountable forecast governance.",
+      "responsibilities": [
+        "Own regional revenue strategy.",
+        "Lead senior sales managers.",
+        "Set territory priorities.",
+        "Review forecast accuracy.",
+        "Partner with finance and marketing.",
+        "Represent DACH in executive planning."
+      ],
+      "essential": [
+        "Senior B2B sales leadership.",
+        "Executive German and English.",
+        "Revenue team scaling experience.",
+        "Commercial and people leadership."
+      ],
+      "desirable": [
+        "Enterprise sales experience.",
+        "Strategic planning experience."
+      ],
+      "company": "International technology and business-service groups with DACH sales teams."
     },
     {
       "id": "R15",
@@ -604,11 +684,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Finance Director / Head of Finance (DACH)",
       "category": "Senior Leadership & Executive",
@@ -620,7 +700,27 @@
         "germanPremiumPercent": 0,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Lead finance for a DACH business unit within an international organisation. Own planning, reporting, financial controls and business partnering across German-speaking operations and English-speaking group finance. Requires financial judgement, governance and clear communication of results and risks to leadership.",
+      "responsibilities": [
+        "Lead budgets and forecasts.",
+        "Oversee close and controls.",
+        "Partner with regional leaders.",
+        "Explain financial risks.",
+        "Coordinate tax, treasury and audit.",
+        "Develop finance teams."
+      ],
+      "essential": [
+        "Senior finance leadership.",
+        "Fluent German and English.",
+        "Reporting and controls expertise.",
+        "Executive stakeholder management."
+      ],
+      "desirable": [
+        "ACA, ACCA, CIMA or equivalent.",
+        "Multinational ERP experience."
+      ],
+      "company": "Multinational companies with DACH finance operations."
     },
     {
       "id": "R16",
