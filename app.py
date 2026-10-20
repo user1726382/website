@@ -47,6 +47,15 @@ BOOKING_URL=os.getenv('BOOKING_URL','')
 ph=PasswordHasher()
 rate_state={}
 
+# Operational approval flags are fail-closed release interlocks, not proof of legal compliance.
+def launch_gate_enabled(kind):
+    common=('LEGAL_IDENTITY_VERIFIED','PRIVACY_NOTICE_APPROVED','SECURITY_RELEASE_APPROVED')
+    candidate=('RECRUITMENT_AUTHORIZATION_VERIFIED','CANDIDATE_NOTICE_APPROVED','RETENTION_SCHEDULE_APPROVED')
+    required=common+(candidate if kind=='applications' else ())
+    switch='ACCEPT_APPLICATIONS' if kind=='applications' else 'ACCEPT_INQUIRIES'
+    return os.getenv(switch,'false').lower()=='true' and all(os.getenv(k,'false').lower()=='true' for k in required)
+
+
 def limited(key, limit=12, window=3600):
     now=time.monotonic()
     timestamps=[x for x in rate_state.get(key,[]) if now-x<window]
@@ -126,7 +135,7 @@ def ctx(request, locale='en', **kw):
      company=setting('site_name',COMPANY),wordmark=setting('brand_wordmark',WORDMARK),meta_title=meta_t['value'] if meta_t else None,brand_caption=UI[locale]['brand_small'],contact_email=setting('contact_email',CONTACT_EMAIL),
      contact_phone=setting('contact_phone',CONTACT_PHONE),linkedin_url=setting('linkedin_url',LINKEDIN_URL),booking_url=setting('booking_url',BOOKING_URL),
      csrf=csrf(request),year=__import__('datetime').datetime.now().year,
-     consent_enabled=False,inquiries_enabled=os.getenv('ACCEPT_INQUIRIES','false').lower()=='true',applications_enabled=os.getenv('ACCEPT_APPLICATIONS','false').lower()=='true',meta_description=(meta['value'] if meta else (preferred_summary or (kw.get('page_title','')+'. '+('Cross-border recruitment, market entry and marketing for Germany and Ireland.' if locale=='en' else 'Recruiting, Markteintritt und Marketing zwischen Deutschland und Irland.')))[:160]), **kw)
+     consent_enabled=False,inquiries_enabled=launch_gate_enabled('inquiries'),applications_enabled=launch_gate_enabled('applications'),meta_description=(meta['value'] if meta else (preferred_summary or (kw.get('page_title','')+'. '+('Cross-border recruitment, market entry and marketing for Germany and Ireland.' if locale=='en' else 'Recruiting, Markteintritt und Marketing zwischen Deutschland und Irland.')))[:160]), **kw)
 
 def render(request, name, locale='en', status=200, **kwargs):
     return templates.TemplateResponse(request,name,ctx(request,locale,**kwargs),status_code=status)
@@ -235,7 +244,7 @@ async def inquiry(request:Request):
     check_csrf(request,str(form.get('csrf','')))
     require_form_rate(request,'inquiry')
     if form.get('website_hp'):return redirect(url(locale,'thanks'))
-    if os.getenv('ACCEPT_INQUIRIES','false').lower()!='true':raise HTTPException(503,'Inquiry processing is not enabled until legal and operational setup is complete.')
+    if not launch_gate_enabled('inquiries'):raise HTTPException(503,'Inquiry processing is disabled pending release approvals.')
     if form.get('privacy_read')!='on':raise HTTPException(422,'Privacy acknowledgement required')
     name=valid(form.get('name'),150)
     email=valid(form.get('email'),200)
@@ -268,7 +277,7 @@ async def apply(request:Request, cv:UploadFile=File(...)):
     require_form_rate(request,'apply')
     if form.get('website_hp'):return redirect(url(locale,'thanks'))
     if form.get('privacy_read')!='on':raise HTTPException(422,'Privacy acknowledgement required')
-    if os.getenv('ACCEPT_APPLICATIONS','false').lower()!='true':raise HTTPException(503,'Applications are not currently enabled.')
+    if not launch_gate_enabled('applications'):raise HTTPException(503,'Applications are disabled pending recruitment and privacy approvals.')
     name=valid(form.get('name'),150); email=valid(form.get('email'),200)
     if not name or not EMAIL_RE.match(email):raise HTTPException(422,'Name and valid email are required')
     # No unlimited reads: cap stream at 5 MiB + 1 byte.
