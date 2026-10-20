@@ -1,15 +1,15 @@
 {
   "lastUpdated": "2026-10-20",
-  "marketNote": "Indicative annual gross base salary. Figures supplied for planning purposes and described as 2026 market benchmarks with a 10% uplift; not independently verified. Actual compensation and vacancy availability depend on the employer, experience and position.",
+  "marketNote": "Salary ranges are based on Irish market benchmarks with a German-language adjustment and a further 10% uplift; final employer compensation varies.",
   "contactEmail": "leoedwlashe@gmail.com",
   "roles": [
     {
       "id": "R01",
       "slug": "german-speaking-customer-support",
       "title": "German-Speaking Customer Support Representative",
-      "category": "Customer & Technical Support",
+      "category": "Technology & Support",
       "location": "Dublin, Ireland",
-      "minSalary": 38000,
+      "minSalary": 33000,
       "maxSalary": 44000,
       "overview": "Customer support specialists are often the first point of contact for customers who need clear, timely help with a product or service. In this type of role, you would answer enquiries from German-speaking customers, investigate problems and make sure each interaction ends with an understandable next step. Opportunities may arise with technology companies, subscription businesses, online marketplaces and international service teams based in Ireland. German proficiency matters because customers expect precise explanations and a natural, reassuring experience in their own language. English is equally useful for collaborating with colleagues in product, billing, operations and engineering. Depending on the organisation, the work may involve phone, email, live chat or a combination of channels. Strong performers can build expertise in complex cases, quality assurance and customer experience improvement. Over time, the role can provide a route into team leadership, customer success, operations or training. The exact channels, hours and responsibilities depend on the employer and any confirmed vacancy.",
       "responsibilities": [
@@ -42,7 +42,14 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 30000,
+        "irishBaseMax": 40000,
+        "germanPremiumPercent": 0,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
       "id": "R02",
@@ -84,16 +91,23 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 40000,
+        "irishBaseMax": 50000,
+        "germanPremiumPercent": 0,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
       "id": "R03",
       "slug": "german-speaking-account-executive",
-      "title": "German-Speaking Account Executive",
+      "title": "German-Speaking Account Executive (SMB / Mid-Market)",
       "category": "Sales & Business Development",
       "location": "Dublin, Ireland",
-      "minSalary": 50000,
-      "maxSalary": 69000,
+      "minSalary": 52000,
+      "maxSalary": 75000,
       "overview": "Account executives guide potential business customers from an initial qualified conversation through discovery, solution evaluation and commercial negotiation. A German-speaking AE may manage opportunities in Germany, Austria or Switzerland while working with an international team in Dublin. The role requires more than presenting a product: you need to understand customer objectives, coordinate technical or legal input and communicate a realistic business case. German-language proficiency helps build trust with stakeholders and handle nuanced commercial discussions, while English supports collaboration with product specialists, finance and leadership. Depending on the employer, the focus could be new business, expansion or a defined market segment. Performance is often assessed through sales outcomes and pipeline health, but specific quotas and commission arrangements differ. Experienced account executives may progress to larger accounts, enterprise sales, partnerships or team leadership. The particular sales cycle, travel expectations and product complexity must be assessed against each confirmed opening.",
       "responsibilities": [
         "Lead discovery calls to understand customer goals, constraints and buying processes.",
@@ -126,15 +140,48 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 45000,
+        "irishBaseMax": 65000,
+        "germanPremiumPercent": 5,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
       "id": "R04",
-      "slug": "german-speaking-account-manager",
-      "title": "German-Speaking Account Manager",
-      "category": "Account Management & Customer Success",
+      "slug": "german-speaking-enterprise-account-executive",
       "location": "Dublin, Ireland",
-      "minSalary": 57000,
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "German-Speaking Enterprise Account Executive",
+      "category": "Sales & Business Development",
+      "minSalary": 96000,
+      "maxSalary": 125000,
+      "salaryBenchmark": {
+        "irishBaseMin": 85000,
+        "irishBaseMax": 110000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R05",
+      "slug": "german-speaking-account-manager",
+      "title": "German-Speaking Account Manager / Key Account Manager",
+      "category": "Customer Success & Account Management",
+      "location": "Dublin, Ireland",
+      "minSalary": 52000,
       "maxSalary": 75000,
       "overview": "Account managers develop relationships with existing business customers and help them get continuing value from a product or service. For German-speaking accounts, the role combines commercial awareness with an understanding of local expectations around communication, reliability and service. A Dublin-based account manager may work with clients across Germany, Austria and Switzerland while coordinating with international product, operations and finance colleagues in English. Day-to-day responsibilities can include account planning, renewal discussions, identifying appropriate growth opportunities and resolving issues before they affect the relationship. Unlike a purely new-business sales role, success often depends on long-term trust and effective internal coordination. Employers may measure retention, revenue growth, service quality or a combination of outcomes. Strong account managers can progress to strategic or enterprise accounts, partnerships, commercial operations or people management. The balance between service and sales, any travel requirements and incentive structure vary substantially between organisations and must be checked against an actual opening.",
       "responsibilities": [
@@ -168,16 +215,23 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 45000,
+        "irishBaseMax": 65000,
+        "germanPremiumPercent": 5,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
-      "id": "R05",
+      "id": "R06",
       "slug": "german-speaking-customer-success",
       "title": "German-Speaking Customer Success Manager",
-      "category": "Account Management & Customer Success",
+      "category": "Customer Success & Account Management",
       "location": "Dublin, Ireland",
-      "minSalary": 55000,
-      "maxSalary": 83000,
+      "minSalary": 64000,
+      "maxSalary": 92000,
       "overview": "Customer success managers help business customers adopt a product, reach agreed outcomes and maintain a productive relationship over time. German-speaking CSMs may support organisations in Germany, Austria and Switzerland from an Irish office or hybrid team. The role often starts with understanding the customer's intended results, then building an adoption plan, coordinating training and identifying risks that could undermine value. German-language ability supports effective stakeholder conversations and nuanced explanations; English helps align with international product, support and commercial colleagues. Depending on the employer, customer success may be primarily advisory or may include renewals and expansion responsibilities. Successful CSMs combine empathy with structured account management, product knowledge and the ability to interpret usage or health indicators. Career paths can lead toward strategic customer success, implementation consulting, customer operations or leadership. Account ownership, portfolio size, on-call expectations and performance incentives are employer-specific and should not be assumed from a general career profile.",
       "responsibilities": [
         "Lead onboarding and success-planning discussions with German-speaking customers.",
@@ -210,16 +264,23 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 55000,
+        "irishBaseMax": 80000,
+        "germanPremiumPercent": 5,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
-      "id": "R06",
+      "id": "R07",
       "slug": "german-speaking-digital-advertising",
-      "title": "German-Speaking Digital Advertising Sales Specialist",
-      "category": "Marketing & Advertising",
+      "title": "German-Speaking Digital Advertising Sales Specialist / Account Manager",
+      "category": "Marketing & Partnerships",
       "location": "Dublin, Ireland",
-      "minSalary": 46000,
-      "maxSalary": 63000,
+      "minSalary": 52000,
+      "maxSalary": 75000,
       "overview": "Digital advertising sales specialists work with businesses that want to reach customers through online marketing channels. A German-speaking specialist may support advertisers and agencies in Germany, Austria or Switzerland while collaborating with an international operations team in Ireland. The work combines commercial conversations with an understanding of campaign objectives, advertising products and performance measurement. You may help customers evaluate audience targeting, budget allocation and campaign optimisation, while staying within the platform's advertising policies. German fluency is important for credible client discussions and accurate explanations of campaign results; English is useful for internal coordination and product training. Depending on the organisation, the position could focus on new advertiser acquisition, account growth or consultative campaign support. Results may be measured through customer outcomes and sales performance, but compensation and targets are employer-specific. Experience can lead to senior advertising sales, account strategy, digital marketing consultancy or sales leadership. Specific platforms, certifications and campaign responsibilities depend on the hiring organisation.",
       "responsibilities": [
         "Discuss advertising goals and commercial needs with German-speaking clients.",
@@ -252,16 +313,23 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 45000,
+        "irishBaseMax": 65000,
+        "germanPremiumPercent": 5,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
-      "id": "R07",
+      "id": "R08",
       "slug": "german-speaking-technical-support",
-      "title": "German-Speaking Technical Support Specialist",
-      "category": "Customer & Technical Support",
+      "title": "German-Speaking Technical Support / SaaS Support Specialist",
+      "category": "Technology & Support",
       "location": "Dublin, Ireland",
       "minSalary": 42000,
-      "maxSalary": 57000,
+      "maxSalary": 61000,
       "overview": "Technical support specialists help customers diagnose and resolve problems with software, devices, networks or business systems. A German-speaking support professional may assist users and administrators across Germany, Austria and Switzerland while working with international engineering and service teams in Ireland. The role calls for methodical troubleshooting, clear written records and the ability to explain technical concepts to people with different levels of expertise. German proficiency is valuable when guiding customers through steps or discussing incidents; English is commonly used for internal escalations, documentation and training. Depending on the product, support may cover access issues, configuration, integrations, performance or service incidents. Some teams work standard business hours, while others operate shifts or on-call schedules; these arrangements must be confirmed for each vacancy. Technical support can develop into senior support, solutions engineering, implementation, cloud operations or product-specialist roles. The precise technical stack and level of complexity depend on the employer.",
       "responsibilities": [
         "Diagnose German-language technical enquiries using structured troubleshooting.",
@@ -294,16 +362,23 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 38000,
+        "irishBaseMax": 55000,
+        "germanPremiumPercent": 0,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
-      "id": "R08",
+      "id": "R09",
       "slug": "german-speaking-trust-and-safety",
-      "title": "German-Speaking Trust & Safety Specialist",
-      "category": "Trust & Safety",
+      "title": "German-Speaking Trust & Safety Specialist / Content Moderator",
+      "category": "Technology & Support",
       "location": "Dublin, Ireland",
-      "minSalary": 35000,
-      "maxSalary": 46000,
+      "minSalary": 31000,
+      "maxSalary": 44000,
       "overview": "Trust and safety specialists help online services apply their rules consistently and protect users from harmful, fraudulent or abusive activity. A German-speaking specialist may review user reports, account behaviour or policy questions relating to German-language content while working within an international operations team in Ireland. Strong German comprehension is important for understanding context, idioms and nuance; English is typically needed for internal policy guidance, escalations and quality reviews. The work can involve structured decision-making, accurate case documentation and collaboration with specialist teams handling complex or urgent issues. Some trust and safety roles involve exposure to upsetting material or shift schedules, so candidates should receive a clear, specific explanation of working conditions before accepting an offer. Employers may provide training, wellness resources and defined escalation procedures, but these should not be assumed. Experience can lead to quality assurance, policy operations, investigations, risk operations or team leadership. The content categories, safety measures and schedule vary by employer.",
       "responsibilities": [
         "Review German-language reports or cases against documented platform policies.",
@@ -336,15 +411,22 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 28000,
+        "irishBaseMax": 40000,
+        "germanPremiumPercent": 0,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
-      "id": "R09",
+      "id": "R10",
       "slug": "german-speaking-finance-operations",
-      "title": "German-Speaking Finance Operations Specialist",
+      "title": "German-Speaking Finance Operations / Accounts Payable Specialist",
       "category": "Finance & Compliance",
       "location": "Dublin, Ireland",
-      "minSalary": 39000,
+      "minSalary": 37000,
       "maxSalary": 55000,
       "overview": "Finance operations specialists help organisations run accurate, timely financial processes. A German-speaking professional in Dublin may support accounts payable, receivables, billing, reconciliations or financial customer enquiries for German-speaking business units. The role often sits in a shared-service or international finance team where German is needed for supplier and customer correspondence, while English supports reporting and collaboration with finance colleagues. Success depends on attention to detail, reliable controls and the ability to investigate differences between invoices, payments and system records. Depending on the organisation, you may work with ERP software, spreadsheets, workflow tools and established approval procedures. Some positions focus on transactional processing; others offer opportunities to improve processes, analyse exceptions or contribute to month-end activities. Career development can lead to senior finance operations, financial analysis, controls, team leadership or accounting pathways. Specific accounting standards, qualifications and responsibilities should be assessed against the actual employer and role level.",
       "responsibilities": [
@@ -378,16 +460,23 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 32000,
+        "irishBaseMax": 48000,
+        "germanPremiumPercent": 5,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     },
     {
-      "id": "R10",
+      "id": "R11",
       "slug": "german-speaking-kyc-compliance",
-      "title": "German-Speaking KYC / Compliance Analyst",
+      "title": "German-Speaking KYC / AML / Compliance Analyst",
       "category": "Finance & Compliance",
       "location": "Dublin, Ireland",
-      "minSalary": 39000,
-      "maxSalary": 51000,
+      "minSalary": 40000,
+      "maxSalary": 64000,
       "overview": "KYC and compliance analysts support financial institutions and regulated businesses in understanding customers, verifying information and identifying potential financial-crime risks. A German-speaking analyst may review customer documentation or communicate with counterparties in Germany, Austria and Switzerland while working with a compliance or operations team in Ireland. German fluency is useful for interpreting records and obtaining clear information; English is generally required for internal policies, case documentation and escalation. The role may involve customer due diligence, beneficial ownership checks, screening alerts, periodic reviews or remediation work. Analysts must distinguish routine information gaps from cases requiring specialist review and follow documented procedures rather than make unsupported assumptions. Depending on the employer, work may be subject to financial-services regulation, audit requirements and strict information-security controls. Experience can lead to enhanced due diligence, AML investigations, sanctions operations, compliance advisory or team leadership. The applicable regulatory framework, systems and decision-making authority depend on the hiring entity.",
       "responsibilities": [
         "Review customer identification and due-diligence documentation.",
@@ -420,7 +509,326 @@
         "International working environment and cross-border collaboration",
         "Training, professional development and possible career progression",
         "Possible hybrid working or relocation support where offered"
-      ]
+      ],
+      "salaryBenchmark": {
+        "irishBaseMin": 35000,
+        "irishBaseMax": 55000,
+        "germanPremiumPercent": 5,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R12",
+      "slug": "german-speaking-technical-sales-consultant",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "German-Speaking Technical Sales / Solutions Consultant",
+      "category": "Sales & Business Development",
+      "minSalary": 74000,
+      "maxSalary": 109000,
+      "salaryBenchmark": {
+        "irishBaseMin": 65000,
+        "irishBaseMax": 95000,
+        "germanPremiumPercent": 4,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R13",
+      "slug": "german-speaking-solutions-engineer",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "German-Speaking Solutions Engineer / Pre-Sales Engineer",
+      "category": "Technology & Support",
+      "minSalary": 86000,
+      "maxSalary": 132000,
+      "salaryBenchmark": {
+        "irishBaseMin": 75000,
+        "irishBaseMax": 115000,
+        "germanPremiumPercent": 4,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R14",
+      "slug": "german-speaking-vp-sales-dach",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "VP of Sales / Regional Sales Director (DACH)",
+      "category": "Senior Leadership & Executive",
+      "minSalary": 154000,
+      "maxSalary": 231000,
+      "salaryBenchmark": {
+        "irishBaseMin": 140000,
+        "irishBaseMax": 210000,
+        "germanPremiumPercent": 0,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R15",
+      "slug": "german-speaking-finance-director-dach",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Finance Director / Head of Finance (DACH)",
+      "category": "Senior Leadership & Executive",
+      "minSalary": 132000,
+      "maxSalary": 198000,
+      "salaryBenchmark": {
+        "irishBaseMin": 120000,
+        "irishBaseMax": 180000,
+        "germanPremiumPercent": 0,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R16",
+      "slug": "german-speaking-head-of-sales-dach",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Head of Sales / Country Manager (DACH)",
+      "category": "Senior Leadership & Executive",
+      "minSalary": 130000,
+      "maxSalary": 204000,
+      "salaryBenchmark": {
+        "irishBaseMin": 115000,
+        "irishBaseMax": 180000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R17",
+      "slug": "german-speaking-senior-solutions-architect",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Senior Solutions Architect (German-Speaking)",
+      "category": "Technology & Support",
+      "minSalary": 113000,
+      "maxSalary": 164000,
+      "salaryBenchmark": {
+        "irishBaseMin": 100000,
+        "irishBaseMax": 145000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R18",
+      "slug": "german-speaking-strategic-account-director",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Strategic / Global Account Director (DACH)",
+      "category": "Sales & Business Development",
+      "minSalary": 136000,
+      "maxSalary": 210000,
+      "salaryBenchmark": {
+        "irishBaseMin": 120000,
+        "irishBaseMax": 185000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R19",
+      "slug": "german-speaking-senior-legal-counsel",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Senior Legal Counsel / Commercial Counsel (DACH)",
+      "category": "Finance & Compliance",
+      "minSalary": 108000,
+      "maxSalary": 164000,
+      "salaryBenchmark": {
+        "irishBaseMin": 95000,
+        "irishBaseMax": 145000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R20",
+      "slug": "german-speaking-regional-marketing-director",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Regional Marketing Director (DACH)",
+      "category": "Marketing & Partnerships",
+      "minSalary": 119000,
+      "maxSalary": 181000,
+      "salaryBenchmark": {
+        "irishBaseMin": 105000,
+        "irishBaseMax": 160000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R21",
+      "slug": "german-speaking-partnerships-director",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Senior Partnerships / Channel Director (DACH)",
+      "category": "Marketing & Partnerships",
+      "minSalary": 125000,
+      "maxSalary": 181000,
+      "salaryBenchmark": {
+        "irishBaseMin": 110000,
+        "irishBaseMax": 160000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R22",
+      "slug": "german-speaking-customer-success-director",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Senior Customer Success Director (DACH)",
+      "category": "Senior Leadership & Executive",
+      "minSalary": 119000,
+      "maxSalary": 176000,
+      "salaryBenchmark": {
+        "irishBaseMin": 105000,
+        "irishBaseMax": 155000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
+    },
+    {
+      "id": "R23",
+      "slug": "german-speaking-sales-director",
+      "location": "Dublin, Ireland",
+      "employmentType": "Full-time",
+      "language": "Professional German and working English",
+      "status": "career-profile",
+      "benefits": [
+        "Competitive compensation package",
+        "International, cross-functional working environment",
+        "Structured onboarding and professional development",
+        "Opportunities to grow with a global business",
+        "Workplace benefits and flexible arrangements depend on the employer"
+      ],
+      "title": "Sales Director (German-Speaking Markets)",
+      "category": "Senior Leadership & Executive",
+      "minSalary": 119000,
+      "maxSalary": 187000,
+      "salaryBenchmark": {
+        "irishBaseMin": 105000,
+        "irishBaseMax": 165000,
+        "germanPremiumPercent": 3,
+        "marketAdjustmentPercent": 10,
+        "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
+      }
     }
   ]
 }
