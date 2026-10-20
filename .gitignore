@@ -1,0 +1,19 @@
+# Private environment and runtime data
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+private_uploads/
+media_uploads/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+.pytest_cache/
+.coverage
+.DS_Store
