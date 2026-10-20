@@ -1,4 +1,4 @@
-"""The Link Advisory — bilingual B2B site and single-instance admin.
+"""The Link — bilingual B2B site and single-instance admin.
 Run: uvicorn app:app --reload. Set env secrets before a public deployment.
 """
 from __future__ import annotations
@@ -33,7 +33,7 @@ MEDIA_DIR.mkdir(parents=True, exist_ok=True)
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 try: UPLOAD_DIR.chmod(0o700)
 except Exception: pass
-COMPANY=os.getenv('SITE_NAME','The Link Advisory')
+COMPANY=os.getenv('SITE_NAME','The Link')
 WORDMARK=os.getenv('BRAND_WORDMARK','the link')
 SITE_DOMAIN=os.getenv('SITE_DOMAIN','https://example.com').rstrip('/')
 COOKIE_SECURE=os.getenv('COOKIE_SECURE','false').lower()=='true'
@@ -64,7 +64,7 @@ async def lifespan(app):
     db.init()
     yield
 
-app=FastAPI(title='The Link Advisory', docs_url=None, redoc_url=None, lifespan=lifespan)
+app=FastAPI(title='The Link', docs_url=None, redoc_url=None, lifespan=lifespan)
 app.add_middleware(SessionMiddleware,secret_key=SESSION_SECRET,https_only=COOKIE_SECURE,same_site='lax',max_age=60*60*6)
 app.mount('/static',StaticFiles(directory=str(ROOT/'static')),name='static')
 templates=Jinja2Templates(directory=str(ROOT/'templates'))
