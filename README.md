@@ -72,6 +72,9 @@ Staff roles:
 
 The environment-backed admin (`ADMIN_USER`, `ADMIN_PASSWORD_HASH`) is always a fallback administrator; protect this secret and remove access when no longer needed. For multiple staff, use unique accounts. MFA/SSO would be advisable for a higher-risk production recruitment environment; it is **not built in**.
 
+
+> **Additional form release interlocks:** `ACCEPT_INQUIRIES=true` alone is insufficient. Inquiry processing also requires `LEGAL_IDENTITY_VERIFIED=true`, `PRIVACY_NOTICE_APPROVED=true` and `SECURITY_RELEASE_APPROVED=true`. Applications additionally require `RECRUITMENT_AUTHORIZATION_VERIFIED=true`, `CANDIDATE_NOTICE_APPROVED=true` and `RETENTION_SCHEDULE_APPROVED=true`. These are operator-controlled configuration flags and do **not** prove that the underlying obligations were actually satisfied. Record approval evidence in `compliance/LAUNCH-REGISTER.md`. Do not set these flags until independently verified.
+
 ## Enabling live forms
 
 **Do not enable forms until all launch prerequisites below have been completed.**
