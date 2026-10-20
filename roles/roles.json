@@ -914,11 +914,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Regional Marketing Director (DACH)",
       "category": "Marketing & Partnerships",
@@ -930,7 +930,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Lead regional marketing strategy, brand positioning and demand generation for DACH markets. Adapt global campaigns to local buyers, manage agency and field marketing partners, and measure pipeline contribution. Combine German market knowledge with international leadership.",
+      "responsibilities": [
+        "Set regional marketing plans.",
+        "Localise global campaigns.",
+        "Lead field and digital marketing.",
+        "Manage agencies and teams.",
+        "Measure pipeline contribution.",
+        "Coordinate with sales leadership."
+      ],
+      "essential": [
+        "Senior regional marketing leadership.",
+        "Fluent German and English.",
+        "Campaign analytics and strategy.",
+        "Budget management."
+      ],
+      "desirable": [
+        "Marketing automation and ABM.",
+        "DACH field marketing experience."
+      ],
+      "company": "International B2B companies with DACH marketing teams."
     },
     {
       "id": "R21",
@@ -940,11 +960,11 @@
       "language": "Professional German and working English",
       "status": "career-profile",
       "benefits": [
-        "Competitive compensation package",
-        "International, cross-functional working environment",
-        "Structured onboarding and professional development",
-        "Opportunities to grow with a global business",
-        "Workplace benefits and flexible arrangements depend on the employer"
+        "Competitive compensation",
+        "International working environment",
+        "Professional development",
+        "Career progression opportunities",
+        "Employer-specific benefits"
       ],
       "title": "Senior Partnerships / Channel Director (DACH)",
       "category": "Marketing & Partnerships",
@@ -956,7 +976,27 @@
         "germanPremiumPercent": 3,
         "marketAdjustmentPercent": 10,
         "method": "rounded((Irish base benchmark × (1 + modelled German-language premium)) × 1.10)"
-      }
+      },
+      "overview": "Build strategic alliances and distribution channels across German-speaking markets. Identify partners, negotiate collaboration models, develop joint business plans and work with sales and product teams to grow partner-sourced revenue. Strong DACH relationships and partner governance are essential.",
+      "responsibilities": [
+        "Define DACH partner strategy.",
+        "Evaluate strategic partners.",
+        "Negotiate partnership agreements.",
+        "Enable partner sales teams.",
+        "Track channel performance.",
+        "Manage compliance and partner risks."
+      ],
+      "essential": [
+        "Senior partnerships experience.",
+        "Business-fluent German and English.",
+        "Partner revenue track record.",
+        "Commercial negotiation skills."
+      ],
+      "desirable": [
+        "Cloud or systems integrator networks.",
+        "Partner incentive programmes."
+      ],
+      "company": "Technology platforms and software vendors with DACH partner networks."
     },
     {
       "id": "R22",
