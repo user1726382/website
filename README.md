@@ -1,5 +1,8 @@
 # The Link — Germany × Ireland
 
+> **COMPLIANCE / DEPLOYMENT STATUS (2026-10-20): NOT PRODUCTION READY.** The GitHub Pages branch is a noindex static preview with bilingual draft legal notices. The source repository currently lacks templates, static assets and operational scripts referenced below; do not assume the backend runs as documented. Contact and CV processing must remain disabled. The business operator, legal identity, registration, Irish employment-agency licensing applicability, GDPR documentation, contracts and security tests have not been verified. See [compliance/README.md](compliance/README.md) and [launch register](compliance/LAUNCH-REGISTER.md). These drafts do not establish legal compliance.
+
+
 An original, bilingual B2B consulting website for recruitment, market entry and outsourced marketing. **The Link is a provisional working brand; check naming/trademark availability before launch.** The site is an application project, not a deployed public website.
 
 ![Homepage design](preview/desktop.png)
