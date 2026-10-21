@@ -13,7 +13,7 @@ This section contains **23 bilingual German-speaking role categories**. The site
 
 ## Candidate interest and privacy
 
-The contact email is currently `leoedwlashe@gmail.com`, as configured on the homepage. A mailto link **cannot attach a CV automatically**; candidates must add an attachment themselves. Copy-email is offered if no mail client opens.
+The contact email is currently `leoedwalshe@gmail.com`, as configured on the homepage. A mailto link **cannot attach a CV automatically**; candidates must add an attachment themselves. Copy-email is offered if no mail client opens.
 
 **Before publicly collecting candidate CVs, the business must complete and verify the operator identity, recruitment-specific GDPR transparency notices, legal basis, retention, candidate rights process, vendor/transfer arrangements and any applicable Irish employment agency licensing.** The existing legal pages still contain incomplete operator information. The site-wide `noindex,nofollow` settings remain unchanged. The static feature is not a legal-compliance certification.
 
