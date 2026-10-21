@@ -7,3 +7,4 @@
 .navlinks .lang{display:inline-flex;align-items:center;justify-content:center;min-width:38px;padding:7px 9px;border:1px solid #b6cbc0;border-radius:5px;font-size:12px;font-weight:800;color:#315d53;background:transparent}.navlinks .lang:hover{background:#e8f1e9;text-decoration:none}
 
 .added-nav{color:#2b6c58}.footer-direct{margin:10px 0 0}.footer-direct a{text-decoration:underline}.job-card a.btn{min-height:46px;text-align:center}@media(max-width:950px){.navlinks .added-nav{display:none}}@media(max-width:620px){.navlinks .added-nav{display:inline-flex}.site-nav .navlinks{gap:10px}.site-nav .navlinks a{font-size:13px}}
+.filter-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.related-roles{border-top:1px solid #c7d7cc;margin-top:25px;padding-top:15px}.related-roles h2{font-size:22px}.related-roles li{margin:8px 0}@media(max-width:950px){.filter-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:620px){.filter-grid{grid-template-columns:1fr}}
