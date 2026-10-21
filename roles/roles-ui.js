@@ -20,7 +20,7 @@ document.querySelectorAll('.site-header .navlinks').forEach(nav=>{
   for(const [label,path] of links){if((path==='employers/'||path==='de/unternehmen/')&&[...nav.querySelectorAll('a')].some(a=>a.getAttribute('href')?.endsWith(path)))continue;const a=document.createElement('a');a.href=base+path;a.textContent=label;a.className='added-nav';nav.insertBefore(a,nav.querySelector('.btn'))}
 });
 document.querySelectorAll('.footer .wrap>div:first-child').forEach(el=>{
-  const p=document.createElement('p');p.className='footer-direct';p.innerHTML='<a href="tel:+353874319648">+353 87 431 9648</a> · <a href="mailto:leoedwlashe@gmail.com">'+(de?'Kontakt aufnehmen':'Contact us')+'</a>';el.append(p)
+  const p=document.createElement('p');p.className='footer-direct';p.innerHTML='<a href="tel:+353874319648">+353 87 431 9648</a> · <a href="mailto:leoedwalshe@gmail.com">'+(de?'Kontakt aufnehmen':'Contact us')+'</a>';el.append(p)
 });
 document.querySelectorAll('a.btn[href^="mailto:"][href*="Application"],a.btn[href^="mailto:"][href*="Bewerbung"]').forEach(a=>{
   if(a.closest('[data-verified="true"]'))return;
