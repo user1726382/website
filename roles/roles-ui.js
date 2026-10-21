@@ -4,7 +4,7 @@
 const de=document.documentElement.lang==='de',base=new URL('../',document.currentScript.src).href;
 document.querySelectorAll('.site-header .navlinks').forEach(nav=>{
   const links=de?[['Für Unternehmen','de/unternehmen/'],['Gehälter','de/gehaelter/'],['Arbeiten in Irland','de/arbeiten-in-irland/']]:[['For employers','employers/'],['Salary guide','salary-guide/'],['Working in Ireland','working-in-ireland/']];
-  for(const [label,path] of links){const a=document.createElement('a');a.href=base+path;a.textContent=label;a.className='added-nav';nav.insertBefore(a,nav.querySelector('.btn'))}
+  for(const [label,path] of links){if((path==='employers/'||path==='de/unternehmen/')&&[...nav.querySelectorAll('a')].some(a=>a.getAttribute('href')?.endsWith(path)))continue;const a=document.createElement('a');a.href=base+path;a.textContent=label;a.className='added-nav';nav.insertBefore(a,nav.querySelector('.btn'))}
 });
 document.querySelectorAll('.footer .wrap>div:first-child').forEach(el=>{
   const p=document.createElement('p');p.className='footer-direct';p.innerHTML='<a href="tel:+353874319648">+353 87 431 9648</a> · <a href="mailto:leoedwlashe@gmail.com">'+(de?'Kontakt aufnehmen':'Contact us')+'</a>';el.append(p)
@@ -12,7 +12,7 @@ document.querySelectorAll('.footer .wrap>div:first-child').forEach(el=>{
 document.querySelectorAll('a.btn[href^="mailto:"][href*="Application"],a.btn[href^="mailto:"][href*="Bewerbung"]').forEach(a=>{
   if(a.closest('[data-verified="true"]'))return;
   a.textContent=de?'Zum Berufsprofil anfragen ↗':'Enquire about this role ↗';
-  a.setAttribute('aria-label',de?'Zum Berufsprofil anfragen':'Enquire about this role');
+  const roleName=a.closest('.job-card')?.querySelector('h2')?.textContent||document.querySelector('.detail-hero h1')?.textContent||'';a.setAttribute('aria-label',(de?'Zum Berufsprofil anfragen':'Enquire about this role')+(roleName?' – '+roleName:''));
   a.href=a.href.replace('Application','Career%20enquiry').replace('Bewerbung','Karriereanfrage')
 });
 document.querySelectorAll('.detail-bottom p,.sidebar p').forEach(p=>{
