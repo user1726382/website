@@ -16,7 +16,7 @@ Updated 21 October 2026. This document is for internal project management, not a
 2. **Recruitment licensing:** confirm Irish Employment Agency Act licensing applicability, obtain any required authorisation before operating a regulated employment agency. WRC guidance: https://workplacerelations.ie/en/what_you_should_know/employer-obligations/employment-agencies/ and https://www.workplacerelations.ie/en/what_you_should_know/employer-obligations/employment-agencies/faq/employment-agencies-faq.html
 3. **Candidate privacy:** identify controller, lawful bases, sources, retention, suppliers, security, recipients, rights, contact, transfers and supervisory authority before requesting/processing CVs. Complete Article 13/14 information.
 4. **Commercial engagement terms:** verify contracting entity, pricing, scope and any recruitment guarantees before publishing promises.
-5. **Email and domain:** current contact uses leoedwlashe@gmail.com; configure professional domain and email (SPF/DKIM/DMARC) when available.
+5. **Email and domain:** current contact uses leoedwalshe@gmail.com; configure professional domain and email (SPF/DKIM/DMARC) when available.
 6. **Employer enquiry form:** currently uses mailto: and opens the user's email application. No automatic submission, server validation, spam protection or secure storage is claimed. Implement a compliant hosted form only after provider selection and privacy review.
 7. **Vacancies:** all 23 entries in roles/roles.json have status career-profile. Publish JobPosting markup and Apply Now only for verified active vacancies with employer authorisation.
 8. **Analytics:** no analytics added pending provider and privacy/consent review.
